@@ -1,19 +1,27 @@
-# AP TET bilingual practice portal
+# Teacher Prep Hub — GitHub Pages
 
-Static GitHub Pages site. Includes an *illustrative* concept-anchor question bank (not 3,000 unique questions, not official SCERT chapter-by-chapter coverage). Do not use as a high-stakes official assessment without editorial review.
+Bilingual topic-based practice and 150-question exam simulation using a static website.
 
 ## Deploy
-1. Create a GitHub repository called `ap-tet-practice` (or use a subdirectory of an existing Pages repository).
-2. Upload the contents of this folder to the repository root.
-3. In GitHub > repository **Settings > Pages**, set **Build and deployment > Source: Deploy from a branch**, branch **main**, folder **/(root)**, and save.
-4. Your URL is `https://YOUR-USERNAME.github.io/ap-tet-practice/`. For an existing `YOUR-USERNAME.github.io` repo, deploy as a subfolder `ap-tet-practice/` and navigate to that folder URL.
 
-## Add questions
-Edit `data/questions.json`. Each question needs a unique string `id`, `subject` (TEL/CDP/BIO/MATH/PHY/ENG), `question_en`, `question_te`, four `options` strings, `answer` (0,1,2,3 index of correct option), and `explanation_en`, `explanation_te`. Optional `class`, `chapter`, `scert_reference` are recommended. Verify all answer keys and SCERT mappings manually. App rejects duplicate IDs and cannot create 500-question tests unless 500 unique IDs are present.
+Upload **the contents** of this folder to the root of your GitHub repository; enable Settings → Pages → Deploy from branch → main → /(root).
 
-## Important limitations
-- Results and in-progress answers are saved only in the browser's local storage. No account login or cross-device sync.
-- Question bank and answer keys are public in a static GitHub Pages site. This is not cheating-resistant.
-- Users can print results or save as PDF from their browser.
-- Telugu font rendering depends on fonts available on the user's device/browser.
-- Uploaded JSON is temporary for that browser tab session; commit questions.json to distribute a new bank to everyone.
+Keep the `data/questions.json` path. No build commands required. Open the site via GitHub Pages, not by double-clicking `index.html` (the fetch requires HTTP).
+
+## Existing question data
+
+This release contains 3,000 **draft** records; these have NOT undergone individual SCERT text edition verification or expert answer checking. Do not describe them as 3,000 verified questions. It does not add copied previous papers. The default filter includes draft items to support personal practice. The **Reviewed only** filter intentionally returns zero until externally checked records have `review_status: "reviewed"`.
+
+## How to approve questions
+
+For each question, review the answer and explanation, check for near duplicates, verify the 2025–26 state textbook class/chapter and linguistic accuracy, record the concrete chapter reference, and only then set `review_status` to `reviewed`. Never mark an entire generated batch reviewed without actual checking. Use the official documents below as reference material.
+
+- https://tet2dsc.apcfss.in/TET-PDF/APTET%20Information%20Bulliten.pdf
+- https://tet2dsc.apcfss.in/TET-PDF/PressNote/TET%20%20OCTOBER%202025%20SYLLABUS%20BOOK%20FINAL.pdf
+- https://cse.ap.gov.in/textBooksDownloadingPagetitleWise
+
+## Exam structure
+
+150 MCQs: Psychology 30; Language I Telugu 30; Language II English 30; Math 20; Physical Science 20; Biological Science 20. Topic practice supports 10–500 questions where the selected pool is large enough.
+
+The website saves responses and incorrect question IDs locally, without server accounts or analytics. Browser storage may be cleared by the user or device. This is an independent, unofficial study tool.
