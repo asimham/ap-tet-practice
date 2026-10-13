@@ -1,0 +1,3032 @@
+[
+  {
+    "id": "CDP-0001",
+    "subject": "CDP",
+    "question_en": "Which stage in Piaget’s theory is associated with logical reasoning about concrete objects?",
+    "question_te": "పియాజే సిద్ధాంతంలో ప్రత్యక్ష వస్తువులపై తార్కిక ఆలోచన చేసే దశ ఏది?",
+    "options": [
+      "Sensorimotor",
+      "Preoperational",
+      "Concrete operational",
+      "Formal operational"
+    ],
+    "answer": 2,
+    "explanation_en": "Concrete operational thinkers reason logically with tangible situations.",
+    "explanation_te": "ప్రత్యక్ష పరిస్థితులపై తార్కికంగా ఆలోచించే దశ మూర్త కార్యాచరణ దశ."
+  },
+  {
+    "id": "CDP-0002",
+    "subject": "CDP",
+    "question_en": "What is scaffolding in Vygotsky’s approach?",
+    "question_te": "వైగోట్స్కీ ప్రకారం స్కాఫోల్డింగ్ అంటే ఏమిటి?",
+    "options": [
+      "Punishment",
+      "Temporary learning support",
+      "Annual examination",
+      "Memorising text"
+    ],
+    "answer": 1,
+    "explanation_en": "Scaffolding is temporary support gradually withdrawn as competence improves.",
+    "explanation_te": "అభ్యాస సామర్థ్యం పెరిగే కొద్దీ సహాయాన్ని క్రమంగా తగ్గించడం."
+  },
+  {
+    "id": "CDP-0003",
+    "subject": "CDP",
+    "question_en": "Which assessment is mainly used to improve learning during instruction?",
+    "question_te": "బోధన సమయంలో అభ్యసనాన్ని మెరుగుపరచడానికి ఉపయోగించే మూల్యాంకనం ఏది?",
+    "options": [
+      "Summative assessment",
+      "Entrance examination",
+      "Formative assessment",
+      "Final ranking"
+    ],
+    "answer": 2,
+    "explanation_en": "Formative feedback informs the next teaching step.",
+    "explanation_te": "నిర్మాణాత్మక మూల్యాంకనం తదుపరి బోధనకు దిశానిర్దేశం చేస్తుంది."
+  },
+  {
+    "id": "CDP-0004",
+    "subject": "CDP",
+    "question_en": "A learner solves a task with help but not alone. This illustrates which concept?",
+    "question_te": "సహాయంతో మాత్రమే సమస్యను పరిష్కరించే విద్యార్థి ఏ భావనను సూచిస్తాడు?",
+    "options": [
+      "Zone of proximal development",
+      "Fixed intelligence",
+      "Negative transfer",
+      "Classical conditioning"
+    ],
+    "answer": 0,
+    "explanation_en": "The ZPD is the gap between independent and assisted performance.",
+    "explanation_te": "స్వతంత్ర మరియు సహాయంతో చేయగల పనుల మధ్య అంతరమే సమీప వికాస మండలం."
+  },
+  {
+    "id": "CDP-0005",
+    "subject": "CDP",
+    "question_en": "Which action best supports an inclusive classroom?",
+    "question_te": "సమ్మిళిత తరగతికి ఉత్తమ చర్య ఏది?",
+    "options": [
+      "Same method for all without adaptation",
+      "Flexible teaching and accessible resources",
+      "Separate all struggling learners",
+      "Avoid group tasks"
+    ],
+    "answer": 1,
+    "explanation_en": "Universal access and differentiation enable participation.",
+    "explanation_te": "విద్యార్థుల అవసరాలకు తగ్గ మార్పులు అందరినీ భాగస్వాములను చేస్తాయి."
+  },
+  {
+    "id": "CDP-0006",
+    "subject": "CDP",
+    "question_en": "What does intrinsic motivation mean?",
+    "question_te": "అంతర్గత ప్రేరణ అంటే ఏమిటి?",
+    "options": [
+      "Studying only for prizes",
+      "Learning because of curiosity",
+      "Learning due to threats",
+      "Studying solely for grades"
+    ],
+    "answer": 1,
+    "explanation_en": "Interest and satisfaction from an activity are intrinsic.",
+    "explanation_te": "ఆసక్తి మరియు స్వీయ సంతృప్తితో నేర్చుకోవడమే అంతర్గత ప్రేరణ."
+  },
+  {
+    "id": "CDP-0007",
+    "subject": "CDP",
+    "question_en": "Which is an example of diagnostic assessment?",
+    "question_te": "నిర్ధారణాత్మక మూల్యాంకనానికి ఉదాహరణ ఏది?",
+    "options": [
+      "Find misconceptions before reteaching",
+      "Award end-term certificates",
+      "Rank schools",
+      "Publish final scores"
+    ],
+    "answer": 0,
+    "explanation_en": "Diagnostic assessment identifies specific gaps and errors.",
+    "explanation_te": "విద్యార్థుల లోపాలు మరియు అపోహలను గుర్తించడం దీనికి లక్ష్యం."
+  },
+  {
+    "id": "CDP-0008",
+    "subject": "CDP",
+    "question_en": "Which classroom task most encourages higher-order thinking?",
+    "question_te": "ఉన్నత స్థాయి ఆలోచనను ప్రోత్సహించే పని ఏది?",
+    "options": [
+      "Copying definitions",
+      "Reciting dates",
+      "Comparing two solutions and justifying one",
+      "Repeating a formula"
+    ],
+    "answer": 2,
+    "explanation_en": "Comparison and justification require analysis and evaluation.",
+    "explanation_te": "పోల్చడం మరియు సమర్థించడం విశ్లేషణాత్మక ఆలోచనను పెంచుతాయి."
+  },
+  {
+    "id": "CDP-0009",
+    "subject": "CDP",
+    "question_en": "Kohlberg’s theory chiefly explains development of what?",
+    "question_te": "కోల్బర్గ్ సిద్ధాంతం ప్రధానంగా దేని వికాసాన్ని వివరిస్తుంది?",
+    "options": [
+      "Muscle strength",
+      "Moral reasoning",
+      "Handwriting",
+      "Visual acuity"
+    ],
+    "answer": 1,
+    "explanation_en": "Kohlberg described stages of moral judgment.",
+    "explanation_te": "నైతిక నిర్ణయాల వికాస దశలను కోల్బర్గ్ వివరించాడు."
+  },
+  {
+    "id": "CDP-0010",
+    "subject": "CDP",
+    "question_en": "A teacher offers multiple ways to show understanding. This mainly supports what?",
+    "question_te": "జ్ఞానాన్ని వివిధ మార్గాల్లో వ్యక్తపరచేందుకు అవకాశం ఇవ్వడం వల్ల ఏమి కలుగుతుంది?",
+    "options": [
+      "Uniformity",
+      "Learner diversity",
+      "Mechanical recall",
+      "One-way instruction"
+    ],
+    "answer": 1,
+    "explanation_en": "Multiple response modes recognise diverse learner strengths.",
+    "explanation_te": "వివిధ వ్యక్తీకరణ మార్గాలు అభ్యాసకుల వైవిధ్యాన్ని గౌరవిస్తాయి."
+  },
+  {
+    "id": "CDP-0011",
+    "subject": "CDP",
+    "question_en": "Which is the best response to a student misconception?",
+    "question_te": "విద్యార్థి అపోహకు ఉత్తమ ఉపాధ్యాయ స్పందన ఏది?",
+    "options": [
+      "Ignore it",
+      "Punish the learner",
+      "Elicit reasoning and use counterexamples",
+      "Give only the correct answer"
+    ],
+    "answer": 2,
+    "explanation_en": "Making thinking visible helps repair conceptual misunderstanding.",
+    "explanation_te": "ఆలోచనను వెలికితీసి ప్రత్యుదాహరణలతో భావన సరిచేయాలి."
+  },
+  {
+    "id": "CDP-0012",
+    "subject": "CDP",
+    "question_en": "Which principle says development proceeds from head toward feet?",
+    "question_te": "వికాసం తల నుండి పాదాల వైపు జరుగుతుందనే సూత్రం ఏది?",
+    "options": [
+      "Proximodistal",
+      "Cephalocaudal",
+      "Reciprocity",
+      "Assimilation"
+    ],
+    "answer": 1,
+    "explanation_en": "Cephalocaudal development progresses head to foot.",
+    "explanation_te": "సెఫలోకాడల్ వికాసం తల నుండి పాదాల వైపు సాగుతుంది."
+  },
+  {
+    "id": "CDP-0013",
+    "subject": "CDP",
+    "question_en": "What is positive reinforcement?",
+    "question_te": "సానుకూల బలపరచడం అంటే ఏమిటి?",
+    "options": [
+      "Removing an unpleasant task",
+      "Adding a desirable consequence after a behavior",
+      "Ignoring behavior",
+      "Reducing learning time"
+    ],
+    "answer": 1,
+    "explanation_en": "A desirable consequence increases the likelihood of a behavior.",
+    "explanation_te": "కావాల్సిన ఫలితాన్ని ఇవ్వడం ద్వారా ప్రవర్తన పెరుగుతుంది."
+  },
+  {
+    "id": "CDP-0014",
+    "subject": "CDP",
+    "question_en": "Which teaching approach builds new ideas from learners’ prior knowledge?",
+    "question_te": "ముందున్న జ్ఞానంపై కొత్త జ్ఞానం నిర్మించే విధానం ఏది?",
+    "options": [
+      "Constructivism",
+      "Rote instruction",
+      "Dictation only",
+      "Passive listening"
+    ],
+    "answer": 0,
+    "explanation_en": "Constructivist instruction links experiences to new concepts.",
+    "explanation_te": "నిర్మాణవాదం పూర్వానుభవాలపై కొత్త భావనలను నిర్మిస్తుంది."
+  },
+  {
+    "id": "CDP-0015",
+    "subject": "CDP",
+    "question_en": "Which tool best documents progress over several months?",
+    "question_te": "కొన్ని నెలల పురోగతిని చూపడానికి ఉత్తమ సాధనం ఏది?",
+    "options": [
+      "Single final test",
+      "Portfolio",
+      "One oral question",
+      "Attendance sheet"
+    ],
+    "answer": 1,
+    "explanation_en": "Portfolios retain dated evidence of learning growth.",
+    "explanation_te": "పోర్ట్‌ఫోలియో కాలక్రమంలో పురోగతి ఆధారాలను భద్రపరుస్తుంది."
+  },
+  {
+    "id": "CDP-0016",
+    "subject": "CDP",
+    "question_en": "పరిశీలన ద్వారా సామాజిక అభ్యసన సిద్ధాంతకర్త ఎవరు?",
+    "question_te": "Who proposed social learning through observation?",
+    "options": [
+      "Bandura",
+      "Pavlov",
+      "Thorndike",
+      "Piaget"
+    ],
+    "answer": 0,
+    "explanation_en": "Bandura is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Bandura. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0017",
+    "subject": "CDP",
+    "question_en": "శాస్త్రీయ నిబంధన సిద్ధాంతకర్త ఎవరు?",
+    "question_te": "Who is associated with classical conditioning?",
+    "options": [
+      "Pavlov",
+      "Skinner",
+      "Bruner",
+      "Rogers"
+    ],
+    "answer": 0,
+    "explanation_en": "Pavlov is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Pavlov. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0018",
+    "subject": "CDP",
+    "question_en": "క్రియా నిబంధన సిద్ధాంతకర్త ఎవరు?",
+    "question_te": "Who is associated with operant conditioning?",
+    "options": [
+      "Skinner",
+      "Kohlberg",
+      "Piaget",
+      "Maslow"
+    ],
+    "answer": 0,
+    "explanation_en": "Skinner is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Skinner. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0019",
+    "subject": "CDP",
+    "question_en": "ప్రయత్న దోష అభ్యసనం ఎవరిది?",
+    "question_te": "Trial-and-error learning is linked with whom?",
+    "options": [
+      "Thorndike",
+      "Goleman",
+      "Freud",
+      "Erikson"
+    ],
+    "answer": 0,
+    "explanation_en": "Thorndike is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Thorndike. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0020",
+    "subject": "CDP",
+    "question_en": "ఆవిష్కరణాత్మక అభ్యసనం ఎవరిది?",
+    "question_te": "Discovery learning is associated with whom?",
+    "options": [
+      "Bruner",
+      "Pavlov",
+      "Watson",
+      "Freud"
+    ],
+    "answer": 0,
+    "explanation_en": "Bruner is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Bruner. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0021",
+    "subject": "CDP",
+    "question_en": "అవసరాల శ్రేణి సిద్ధాంతకర్త?",
+    "question_te": "Hierarchy of needs is linked to whom?",
+    "options": [
+      "Maslow",
+      "Bandura",
+      "Vygotsky",
+      "Piaget"
+    ],
+    "answer": 0,
+    "explanation_en": "Maslow is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Maslow. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0022",
+    "subject": "CDP",
+    "question_en": "సవరించిన బ్లూమ్ వర్గీకరణలో అత్యున్నత స్థాయి?",
+    "question_te": "The highest level in revised Bloom taxonomy is?",
+    "options": [
+      "Create",
+      "Remember",
+      "Understand",
+      "Apply"
+    ],
+    "answer": 0,
+    "explanation_en": "Create is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Create. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0023",
+    "subject": "CDP",
+    "question_en": "నిర్మాణాత్మక మూల్యాంకన సాధనం ఏది?",
+    "question_te": "Which is a formative assessment tool?",
+    "options": [
+      "Exit ticket",
+      "Annual board exam",
+      "Final rank",
+      "Admission score"
+    ],
+    "answer": 0,
+    "explanation_en": "Exit ticket is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Exit ticket. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0024",
+    "subject": "CDP",
+    "question_en": "నిర్దిష్ట అపోహలను గుర్తించే పరీక్ష ఏది?",
+    "question_te": "Which test identifies specific misconceptions?",
+    "options": [
+      "Diagnostic",
+      "Summative",
+      "Selection",
+      "Placement only"
+    ],
+    "answer": 0,
+    "explanation_en": "Diagnostic is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Diagnostic. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0025",
+    "subject": "CDP",
+    "question_en": "పరీక్ష స్థిరత్వ సూచిక ఏది?",
+    "question_te": "Which is a measure of consistency in testing?",
+    "options": [
+      "Reliability",
+      "Validity",
+      "Difficulty only",
+      "Grade"
+    ],
+    "answer": 0,
+    "explanation_en": "Reliability is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Reliability. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0026",
+    "subject": "CDP",
+    "question_en": "ఉద్దేశించిన అంశాన్ని కొలవడం ఏ లక్షణం?",
+    "question_te": "Which quality concerns measuring the intended construct?",
+    "options": [
+      "Validity",
+      "Reliability only",
+      "Popularity",
+      "Speed"
+    ],
+    "answer": 0,
+    "explanation_en": "Validity is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Validity. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0027",
+    "subject": "CDP",
+    "question_en": "విద్యార్థి స్వయంగా అర్థాన్ని నిర్మించే సిద్ధాంతం?",
+    "question_te": "Which theory emphasizes learner-built meaning?",
+    "options": [
+      "Constructivism",
+      "Behaviorism only",
+      "Fatalism",
+      "Rote learning"
+    ],
+    "answer": 0,
+    "explanation_en": "Constructivism is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Constructivism. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0028",
+    "subject": "CDP",
+    "question_en": "పియాజే ప్రకారం అమూర్త ఊహాత్మక ఆలోచన దశ?",
+    "question_te": "Which stage in Piaget uses abstract hypotheses?",
+    "options": [
+      "Formal operational",
+      "Sensorimotor",
+      "Preoperational",
+      "Concrete only"
+    ],
+    "answer": 0,
+    "explanation_en": "Formal operational is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Formal operational. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0029",
+    "subject": "CDP",
+    "question_en": "వస్తు శాశ్వతత్వ భావన ఏ దశలో?",
+    "question_te": "Object permanence develops mainly during which stage?",
+    "options": [
+      "Sensorimotor",
+      "Formal operational",
+      "Adulthood",
+      "Old age"
+    ],
+    "answer": 0,
+    "explanation_en": "Sensorimotor is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Sensorimotor. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0030",
+    "subject": "CDP",
+    "question_en": "స్వకేంద్రిత ఆలోచన సాధారణంగా ఏ దశలో?",
+    "question_te": "Egocentrism is typical of which Piaget stage?",
+    "options": [
+      "Preoperational",
+      "Formal operational",
+      "Adulthood",
+      "Concrete operational"
+    ],
+    "answer": 0,
+    "explanation_en": "Preoperational is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Preoperational. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0031",
+    "subject": "CDP",
+    "question_en": "వ్యక్తిత్వం వర్సెస్ పాత్ర గందరగోళం ఎవరి సిద్ధాంతం?",
+    "question_te": "Identity versus role confusion belongs to whom?",
+    "options": [
+      "Erikson",
+      "Pavlov",
+      "Thorndike",
+      "Skinner"
+    ],
+    "answer": 0,
+    "explanation_en": "Erikson is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Erikson. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0032",
+    "subject": "CDP",
+    "question_en": "నైతిక వికాస దశలను ప్రతిపాదించినవారు?",
+    "question_te": "Moral development stages are proposed by whom?",
+    "options": [
+      "Kohlberg",
+      "Bruner",
+      "Maslow",
+      "Watson"
+    ],
+    "answer": 0,
+    "explanation_en": "Kohlberg is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Kohlberg. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0033",
+    "subject": "CDP",
+    "question_en": "తాత్కాలిక సహాయంతో బోధన ఏది?",
+    "question_te": "Which teaching approach uses temporary assistance?",
+    "options": [
+      "Scaffolding",
+      "Punishment",
+      "Ranking",
+      "Dictation"
+    ],
+    "answer": 0,
+    "explanation_en": "Scaffolding is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Scaffolding. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0034",
+    "subject": "CDP",
+    "question_en": "సమ్మిళిత విద్య అంటే ఏమిటి?",
+    "question_te": "What is inclusive education?",
+    "options": [
+      "Meaningful participation for diverse learners",
+      "Separating all learners",
+      "Teaching only toppers",
+      "Identical support always"
+    ],
+    "answer": 0,
+    "explanation_en": "Meaningful participation for diverse learners is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Meaningful participation for diverse learners. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0035",
+    "subject": "CDP",
+    "question_en": "అంతర్గత ప్రేరక శక్తి ఏది?",
+    "question_te": "Which is an intrinsic motivator?",
+    "options": [
+      "Curiosity",
+      "Punishment",
+      "Prize only",
+      "Threat"
+    ],
+    "answer": 0,
+    "explanation_en": "Curiosity is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Curiosity. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0036",
+    "subject": "CDP",
+    "question_en": "బాహ్య ప్రేరక శక్తి ఏది?",
+    "question_te": "Which is an external motivator?",
+    "options": [
+      "Award",
+      "Curiosity",
+      "Personal interest",
+      "Enjoyment"
+    ],
+    "answer": 0,
+    "explanation_en": "Award is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Award. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0037",
+    "subject": "CDP",
+    "question_en": "పోర్ట్‌ఫోలియో ప్రధానంగా ఏమి చూపుతుంది?",
+    "question_te": "A portfolio primarily documents what?",
+    "options": [
+      "Progress over time",
+      "One final mark",
+      "Only attendance",
+      "Family income"
+    ],
+    "answer": 0,
+    "explanation_en": "Progress over time is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Progress over time. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0038",
+    "subject": "CDP",
+    "question_en": "సహ విద్యార్థి మూల్యాంకనం అంటే?",
+    "question_te": "Peer assessment means?",
+    "options": [
+      "Students assess one another with criteria",
+      "Only teacher tests",
+      "Only board exam",
+      "Only parent reviews"
+    ],
+    "answer": 0,
+    "explanation_en": "Students assess one another with criteria is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Students assess one another with criteria. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0039",
+    "subject": "CDP",
+    "question_en": "రూబ్రిక్‌లో ఏముంటుంది?",
+    "question_te": "Rubric specifies what?",
+    "options": [
+      "Performance criteria and levels",
+      "Attendance only",
+      "Syllabus name",
+      "Uniform ranking"
+    ],
+    "answer": 0,
+    "explanation_en": "Performance criteria and levels is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Performance criteria and levels. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0040",
+    "subject": "CDP",
+    "question_en": "సహాయంతో చేయగల సామర్థ్యం ఏ మండలం?",
+    "question_te": "A child can learn more with guidance: which zone?",
+    "options": [
+      "ZPD",
+      "IQ",
+      "BMI",
+      "Chronological age"
+    ],
+    "answer": 0,
+    "explanation_en": "ZPD is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: ZPD. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0041",
+    "subject": "CDP",
+    "question_en": "తక్షణ సరిదిద్దే స్పందన లక్ష్యం?",
+    "question_te": "Immediate corrective feedback primarily serves?",
+    "options": [
+      "Improve ongoing learning",
+      "Punish mistakes",
+      "Only certify",
+      "Replace teaching"
+    ],
+    "answer": 0,
+    "explanation_en": "Improve ongoing learning is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Improve ongoing learning. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0042",
+    "subject": "CDP",
+    "question_en": "అదే పిల్లలను కాలక్రమంలో అధ్యయనం చేసే పద్ధతి?",
+    "question_te": "Which research tracks the same children over time?",
+    "options": [
+      "Longitudinal",
+      "Cross-sectional",
+      "Random one-time",
+      "Anecdotal only"
+    ],
+    "answer": 0,
+    "explanation_en": "Longitudinal is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Longitudinal. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0043",
+    "subject": "CDP",
+    "question_en": "ఒకేసారి వేరు వేరు వయసుల పోలిక?",
+    "question_te": "Which compares different ages at one point?",
+    "options": [
+      "Cross-sectional",
+      "Longitudinal",
+      "Case history only",
+      "Diary"
+    ],
+    "answer": 0,
+    "explanation_en": "Cross-sectional is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Cross-sectional. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0044",
+    "subject": "CDP",
+    "question_en": "మధ్య నుండి బయటకు వికాసం ఏ సూత్రం?",
+    "question_te": "Development from center outward is called?",
+    "options": [
+      "Proximodistal",
+      "Cephalocaudal",
+      "Continuity",
+      "Object permanence"
+    ],
+    "answer": 0,
+    "explanation_en": "Proximodistal is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Proximodistal. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0045",
+    "subject": "CDP",
+    "question_en": "తల నుండి పాదాల వరకు వికాసం?",
+    "question_te": "Development from head to toe is called?",
+    "options": [
+      "Cephalocaudal",
+      "Proximodistal",
+      "Association",
+      "Assimilation"
+    ],
+    "answer": 0,
+    "explanation_en": "Cephalocaudal is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Cephalocaudal. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0046",
+    "subject": "CDP",
+    "question_en": "విమర్శనాత్మక ఆలోచనకు దోహదం ఏది?",
+    "question_te": "Which supports critical thinking?",
+    "options": [
+      "Justifying alternative solutions",
+      "Copying notes",
+      "Repeating words",
+      "Silent listening only"
+    ],
+    "answer": 0,
+    "explanation_en": "Justifying alternative solutions is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Justifying alternative solutions. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0047",
+    "subject": "CDP",
+    "question_en": "చేసి నేర్చుకోవడం ఏ విధానానికి ముఖ్యమైంది?",
+    "question_te": "Learning by doing is central to?",
+    "options": [
+      "Experiential learning",
+      "Passive lecture",
+      "Dictation only",
+      "Rote recitation"
+    ],
+    "answer": 0,
+    "explanation_en": "Experiential learning is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Experiential learning. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0048",
+    "subject": "CDP",
+    "question_en": "మెటాకాగ్నిషన్ అంటే?",
+    "question_te": "Metacognition means?",
+    "options": [
+      "Thinking about ones thinking",
+      "Only remembering",
+      "Physical growth",
+      "Reading speed"
+    ],
+    "answer": 0,
+    "explanation_en": "Thinking about ones thinking is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Thinking about ones thinking. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0049",
+    "subject": "CDP",
+    "question_en": "అభ్యసన బదిలీ అంటే?",
+    "question_te": "Transfer of learning means?",
+    "options": [
+      "Applying learning in new contexts",
+      "Forgetting",
+      "Punishment",
+      "Exam ranking"
+    ],
+    "answer": 0,
+    "explanation_en": "Applying learning in new contexts is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Applying learning in new contexts. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "CDP-0050",
+    "subject": "CDP",
+    "question_en": "విద్యార్థి కేంద్రిత వ్యూహం ఏది?",
+    "question_te": "Which is a learner-centered strategy?",
+    "options": [
+      "Inquiry and discussion",
+      "Only teacher monologue",
+      "Silent copying",
+      "Uniform drill only"
+    ],
+    "answer": 0,
+    "explanation_en": "Inquiry and discussion is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Inquiry and discussion. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0001",
+    "subject": "TEL",
+    "question_en": "“చెట్లు” is which number?",
+    "question_te": "“చెట్లు” అనే పదం ఏ వచనంలో ఉంది?",
+    "options": [
+      "ఏకవచనం",
+      "బహువచనం",
+      "ద్వివచనం",
+      "అవ్యయం"
+    ],
+    "answer": 1,
+    "explanation_en": "“చెట్లు” means trees, a plural noun.",
+    "explanation_te": "చెట్టు ఏకవచనం; చెట్లు బహువచనం."
+  },
+  {
+    "id": "TEL-0002",
+    "subject": "TEL",
+    "question_en": "Choose the antonym of “వెలుగు”.",
+    "question_te": "“వెలుగు” పదానికి వ్యతిరేక పదాన్ని ఎంచుకోండి.",
+    "options": [
+      "ప్రకాశం",
+      "చీకటి",
+      "కాంతి",
+      "దీపం"
+    ],
+    "answer": 1,
+    "explanation_en": "“చీకటి” means darkness, opposite of light.",
+    "explanation_te": "వెలుగుకు వ్యతిరేకార్థక పదం చీకటి."
+  },
+  {
+    "id": "TEL-0003",
+    "subject": "TEL",
+    "question_en": "Choose the synonym of “నీరు”.",
+    "question_te": "“నీరు” పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "అగ్ని",
+      "జలం",
+      "గాలి",
+      "భూమి"
+    ],
+    "answer": 1,
+    "explanation_en": "“జలం” is a synonym for water.",
+    "explanation_te": "నీరు, జలం సమానార్థక పదాలు."
+  },
+  {
+    "id": "TEL-0004",
+    "subject": "TEL",
+    "question_en": "“అతడు పుస్తకం చదివాడు.” What is the verb?",
+    "question_te": "“అతడు పుస్తకం చదివాడు.” వాక్యంలో క్రియ ఏది?",
+    "options": [
+      "అతడు",
+      "పుస్తకం",
+      "చదివాడు",
+      "ఏదీ కాదు"
+    ],
+    "answer": 2,
+    "explanation_en": "“చదివాడు” denotes the action of reading.",
+    "explanation_te": "పనిని తెలిపే పదం చదివాడు; అది క్రియ."
+  },
+  {
+    "id": "TEL-0005",
+    "subject": "TEL",
+    "question_en": "Which word is a pronoun?",
+    "question_te": "క్రింది వాటిలో సర్వనామం ఏది?",
+    "options": [
+      "రాము",
+      "అతను",
+      "బడి",
+      "చెట్టు"
+    ],
+    "answer": 1,
+    "explanation_en": "“అతను” stands in place of a noun.",
+    "explanation_te": "నామవాచకానికి బదులుగా వచ్చే పదం అతను."
+  },
+  {
+    "id": "TEL-0006",
+    "subject": "TEL",
+    "question_en": "Which word denotes an adjective?",
+    "question_te": "విశేషణ పదాన్ని గుర్తించండి.",
+    "options": [
+      "మంచి",
+      "వచ్చాడు",
+      "ఇల్లు",
+      "నేను"
+    ],
+    "answer": 0,
+    "explanation_en": "“మంచి” describes a quality.",
+    "explanation_te": "మంచి అనే పదం గుణాన్ని తెలియజేస్తుంది."
+  },
+  {
+    "id": "TEL-0007",
+    "subject": "TEL",
+    "question_en": "Choose correct plural for “పుస్తకం”.",
+    "question_te": "“పుస్తకం” బహువచన రూపం ఏది?",
+    "options": [
+      "పుస్తకానికి",
+      "పుస్తకాలు",
+      "పుస్తకంలో",
+      "పుస్తకాన్ని"
+    ],
+    "answer": 1,
+    "explanation_en": "“పుస్తకాలు” is the plural form.",
+    "explanation_te": "పుస్తకం బహువచనం పుస్తకాలు."
+  },
+  {
+    "id": "TEL-0008",
+    "subject": "TEL",
+    "question_en": "Which punctuation ends a question?",
+    "question_te": "ప్రశ్నార్థక వాక్యానికి చివర ఏ గుర్తు?",
+    "options": [
+      ".",
+      "?",
+      "!",
+      ","
+    ],
+    "answer": 1,
+    "explanation_en": "A question mark signals an interrogative sentence.",
+    "explanation_te": "ప్రశ్నార్థక వాక్యం చివర ప్రశ్నార్థక చిహ్నం ఉంటుంది."
+  },
+  {
+    "id": "TEL-0009",
+    "subject": "TEL",
+    "question_en": "Which is an example of an action word?",
+    "question_te": "క్రిందివాటిలో క్రియను తెలిపే పదం ఏది?",
+    "options": [
+      "ఎరుపు",
+      "పరుగెత్తు",
+      "నది",
+      "అందమైన"
+    ],
+    "answer": 1,
+    "explanation_en": "“పరుగెత్తు” expresses an action.",
+    "explanation_te": "పరుగెత్తు అనే పదం పనిని తెలుపుతుంది."
+  },
+  {
+    "id": "TEL-0010",
+    "subject": "TEL",
+    "question_en": "Which is the best early reading strategy?",
+    "question_te": "ప్రారంభ పఠనానికి ఉత్తమ వ్యూహం ఏది?",
+    "options": [
+      "Letters without meaning only",
+      "Read aloud and discuss pictures",
+      "Memorise unseen passages",
+      "Punish mistakes"
+    ],
+    "answer": 1,
+    "explanation_en": "Meaningful read-aloud and picture talk support comprehension.",
+    "explanation_te": "చిత్రాలపై చర్చతో పఠనం అర్థగ్రహణాన్ని పెంచుతుంది."
+  },
+  {
+    "id": "TEL-0011",
+    "subject": "TEL",
+    "question_en": "Which activity develops speaking skill?",
+    "question_te": "మాట్లాడే నైపుణ్యాన్ని పెంచే కార్యక్రమం ఏది?",
+    "options": [
+      "Silent copying",
+      "Pair discussion",
+      "Only dictation",
+      "Filling attendance"
+    ],
+    "answer": 1,
+    "explanation_en": "Dialogues provide purposeful oral language practice.",
+    "explanation_te": "జంటల చర్చ మౌఖిక భాషా నైపుణ్యాన్ని పెంచుతుంది."
+  },
+  {
+    "id": "TEL-0012",
+    "subject": "TEL",
+    "question_en": "What should a teacher do with home-language differences?",
+    "question_te": "ఇంటి భాషల వైవిధ్యాన్ని ఉపాధ్యాయుడు ఎలా చూడాలి?",
+    "options": [
+      "Prohibit home languages",
+      "Use them as learning resources",
+      "Ignore children",
+      "Grade accents harshly"
+    ],
+    "answer": 1,
+    "explanation_en": "Children’s languages are resources for learning.",
+    "explanation_te": "పిల్లల ఇంటి భాషలు అభ్యసనానికి వనరులు."
+  },
+  {
+    "id": "TEL-0013",
+    "subject": "TEL",
+    "question_en": "Which assesses listening comprehension?",
+    "question_te": "శ్రవణ అవగాహనను ఎలా అంచనా వేయవచ్చు?",
+    "options": [
+      "Copying from board",
+      "Answering questions after listening to a story",
+      "Silent writing from a book",
+      "Drawing alone"
+    ],
+    "answer": 1,
+    "explanation_en": "Responses after listening reveal comprehension.",
+    "explanation_te": "కథ విన్న తరువాత ప్రశ్నలకు సమాధానాలు ఇవ్వడం శ్రవణ అవగాహనను చూపుతుంది."
+  },
+  {
+    "id": "TEL-0014",
+    "subject": "TEL",
+    "question_en": "Which reading task checks inference?",
+    "question_te": "ఊహాత్మక అర్థగ్రహణాన్ని పరీక్షించేది ఏది?",
+    "options": [
+      "Copy title",
+      "Identify an unstated reason using clues",
+      "Count letters",
+      "Read punctuation only"
+    ],
+    "answer": 1,
+    "explanation_en": "Inference combines text clues with reasoning.",
+    "explanation_te": "సూచనలను ఆధారంగా చేసుకుని చెప్పని కారణాన్ని ఊహించడం."
+  },
+  {
+    "id": "TEL-0015",
+    "subject": "TEL",
+    "question_en": "Which feedback best helps writing development?",
+    "question_te": "రచనాభివృద్ధికి ఉపయోగపడే స్పందన ఏది?",
+    "options": [
+      "Only marks",
+      "Specific suggestion and an opportunity to revise",
+      "Public criticism",
+      "No feedback"
+    ],
+    "answer": 1,
+    "explanation_en": "Specific feedback plus revision supports improvement.",
+    "explanation_te": "స్పష్టమైన సూచనలు మరియు సవరణ అవకాశం రచనను మెరుగుపరుస్తాయి."
+  },
+  {
+    "id": "TEL-0016",
+    "subject": "TEL",
+    "question_en": "What is the antonym of courage?",
+    "question_te": "“ధైర్యం” పదానికి వ్యతిరేకార్థం?",
+    "options": [
+      "పిరికితనం",
+      "సాహసం",
+      "వీరత్వం",
+      "స్థైర్యం"
+    ],
+    "answer": 0,
+    "explanation_en": "పిరికితనం is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: పిరికితనం. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0017",
+    "subject": "TEL",
+    "question_en": "Synonym of sky?",
+    "question_te": "“ఆకాశం” పదానికి పర్యాయపదం?",
+    "options": [
+      "గగనం",
+      "నేల",
+      "సముద్రం",
+      "పర్వతం"
+    ],
+    "answer": 0,
+    "explanation_en": "గగనం is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: గగనం. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0018",
+    "subject": "TEL",
+    "question_en": "Opposite of truth?",
+    "question_te": "“నిజం” పదానికి వ్యతిరేకం?",
+    "options": [
+      "అబద్ధం",
+      "సత్యం",
+      "వాస్తవం",
+      "ధర్మం"
+    ],
+    "answer": 0,
+    "explanation_en": "అబద్ధం is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: అబద్ధం. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0019",
+    "subject": "TEL",
+    "question_en": "Opposite of happiness?",
+    "question_te": "“సంతోషం” వ్యతిరేకం?",
+    "options": [
+      "దుఃఖం",
+      "ఆనందం",
+      "హర్షం",
+      "ఉత్సాహం"
+    ],
+    "answer": 0,
+    "explanation_en": "దుఃఖం is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: దుఃఖం. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0020",
+    "subject": "TEL",
+    "question_en": "Synonym of sun?",
+    "question_te": "“సూర్యుడు” పర్యాయపదం?",
+    "options": [
+      "భానుడు",
+      "చంద్రుడు",
+      "తార",
+      "భూమి"
+    ],
+    "answer": 0,
+    "explanation_en": "భానుడు is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: భానుడు. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0021",
+    "subject": "TEL",
+    "question_en": "Synonym of earth?",
+    "question_te": "“భూమి” పర్యాయపదం?",
+    "options": [
+      "ధరణి",
+      "గగనం",
+      "వాయువు",
+      "జలము"
+    ],
+    "answer": 0,
+    "explanation_en": "ధరణి is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: ధరణి. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0022",
+    "subject": "TEL",
+    "question_en": "Opposite of small?",
+    "question_te": "“చిన్న” వ్యతిరేక పదం?",
+    "options": [
+      "పెద్ద",
+      "స్వల్ప",
+      "సూక్ష్మ",
+      "పొట్టి"
+    ],
+    "answer": 0,
+    "explanation_en": "పెద్ద is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: పెద్ద. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0023",
+    "subject": "TEL",
+    "question_en": "Opposite of speed?",
+    "question_te": "“వేగం” వ్యతిరేకం?",
+    "options": [
+      "మందగమనం",
+      "త్వర",
+      "శీఘ్రం",
+      "చురుకు"
+    ],
+    "answer": 0,
+    "explanation_en": "మందగమనం is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: మందగమనం. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0024",
+    "subject": "TEL",
+    "question_en": "Plural of girl?",
+    "question_te": "“అమ్మాయి” బహువచనం?",
+    "options": [
+      "అమ్మాయిలు",
+      "అమ్మాయిని",
+      "అమ్మాయితో",
+      "అమ్మాయికి"
+    ],
+    "answer": 0,
+    "explanation_en": "అమ్మాయిలు is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: అమ్మాయిలు. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0025",
+    "subject": "TEL",
+    "question_en": "Plural of boy?",
+    "question_te": "“బాలుడు” బహువచనం?",
+    "options": [
+      "బాలురు",
+      "బాలుడికి",
+      "బాలుడిని",
+      "బాలుడితో"
+    ],
+    "answer": 0,
+    "explanation_en": "బాలురు is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: బాలురు. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0026",
+    "subject": "TEL",
+    "question_en": "Identify the subject in the sentence.",
+    "question_te": "“పిల్లి పాలు తాగింది” లో కర్త?",
+    "options": [
+      "పిల్లి",
+      "పాలు",
+      "తాగింది",
+      "లేదు"
+    ],
+    "answer": 0,
+    "explanation_en": "పిల్లి is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: పిల్లి. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0027",
+    "subject": "TEL",
+    "question_en": "Identify the adverb.",
+    "question_te": "“అతను నెమ్మదిగా నడిచాడు” లో క్రియావిశేషణం?",
+    "options": [
+      "నెమ్మదిగా",
+      "అతను",
+      "నడిచాడు",
+      "లేదు"
+    ],
+    "answer": 0,
+    "explanation_en": "నెమ్మదిగా is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: నెమ్మదిగా. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0028",
+    "subject": "TEL",
+    "question_en": "Identify the adjective.",
+    "question_te": "“అందమైన పువ్వు” లో విశేషణం?",
+    "options": [
+      "అందమైన",
+      "పువ్వు",
+      "రెండూ క్రియలు",
+      "లేదు"
+    ],
+    "answer": 0,
+    "explanation_en": "అందమైన is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: అందమైన. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0029",
+    "subject": "TEL",
+    "question_en": "Identify the tense.",
+    "question_te": "“నేను రేపు వస్తాను” లో కాలం?",
+    "options": [
+      "భవిష్యత్ కాలం",
+      "భూత కాలం",
+      "వర్తమాన కాలం",
+      "ఏదీ కాదు"
+    ],
+    "answer": 0,
+    "explanation_en": "భవిష్యత్ కాలం is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: భవిష్యత్ కాలం. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0030",
+    "subject": "TEL",
+    "question_en": "Identify the tense.",
+    "question_te": "“అతడు నిన్న వెళ్లాడు” లో కాలం?",
+    "options": [
+      "భూత కాలం",
+      "వర్తమాన కాలం",
+      "భవిష్యత్ కాలం",
+      "అవ్యయం"
+    ],
+    "answer": 0,
+    "explanation_en": "భూత కాలం is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: భూత కాలం. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0031",
+    "subject": "TEL",
+    "question_en": "Identify the tense.",
+    "question_te": "“వారు పాడుతున్నారు” లో కాలం?",
+    "options": [
+      "వర్తమాన కాలం",
+      "భూత కాలం",
+      "భవిష్యత్ కాలం",
+      "ఏదీ కాదు"
+    ],
+    "answer": 0,
+    "explanation_en": "వర్తమాన కాలం is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: వర్తమాన కాలం. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0032",
+    "subject": "TEL",
+    "question_en": "Punctuation for exclamation?",
+    "question_te": "వాక్యాంతంలో విస్మయాన్ని తెలియజేసే గుర్తు?",
+    "options": [
+      "!",
+      "?",
+      ",",
+      "."
+    ],
+    "answer": 0,
+    "explanation_en": "! is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: !. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0033",
+    "subject": "TEL",
+    "question_en": "Smallest contrastive speech sound?",
+    "question_te": "భాషలో భావాన్ని వ్యక్తపరచే అతి చిన్న ధ్వని ప్రమాణం?",
+    "options": [
+      "ధ్వనిమం",
+      "వాక్యం",
+      "పేరా",
+      "వ్యాసం"
+    ],
+    "answer": 0,
+    "explanation_en": "ధ్వనిమం is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: ధ్వనిమం. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0034",
+    "subject": "TEL",
+    "question_en": "Storytelling principally promotes which skill?",
+    "question_te": "తెలుగు బోధనలో కథ చెప్పడం ప్రధానంగా దేనిని పెంచుతుంది?",
+    "options": [
+      "శ్రవణ అవగాహన",
+      "గణన",
+      "చిత్రలేఖనం",
+      "లెక్కలు"
+    ],
+    "answer": 0,
+    "explanation_en": "శ్రవణ అవగాహన is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: శ్రవణ అవగాహన. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0035",
+    "subject": "TEL",
+    "question_en": "Why check prior knowledge before reading?",
+    "question_te": "పాఠానికి ముందు విద్యార్థుల పూర్వజ్ఞానాన్ని తెలుసుకోవడం ఎందుకు?",
+    "options": [
+      "కొత్త భావనలతో అనుసంధానానికి",
+      "శిక్షించడానికి",
+      "శ్రేణీకరించడానికి",
+      "పాఠం ఆపడానికి"
+    ],
+    "answer": 0,
+    "explanation_en": "కొత్త భావనలతో అనుసంధానానికి is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: కొత్త భావనలతో అనుసంధానానికి. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0036",
+    "subject": "TEL",
+    "question_en": "Best activity for synonyms?",
+    "question_te": "సమానార్థక పదాల బోధనకు ఉత్తమ చర్య?",
+    "options": [
+      "సందర్భ వాక్యాల్లో పదాల పోలిక",
+      "జాబితా మాత్రమే కంఠస్థం",
+      "అర్థం చెప్పకుండా వ్రాయడం",
+      "తప్పులకు శిక్ష"
+    ],
+    "answer": 0,
+    "explanation_en": "సందర్భ వాక్యాల్లో పదాల పోలిక is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: సందర్భ వాక్యాల్లో పదాల పోలిక. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0037",
+    "subject": "TEL",
+    "question_en": "Purpose of revision in writing?",
+    "question_te": "భాషా బోధనలో పునర్విమర్శ (revision) ఉపయోగం?",
+    "options": [
+      "భావవ్యక్తీకరణ మెరుగుదల",
+      "రాతను ఆపడం",
+      "తప్పులను దాచడం",
+      "చదవకపోవడం"
+    ],
+    "answer": 0,
+    "explanation_en": "భావవ్యక్తీకరణ మెరుగుదల is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: భావవ్యక్తీకరణ మెరుగుదల. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0038",
+    "subject": "TEL",
+    "question_en": "Guessing a word from context tests?",
+    "question_te": "పదాన్ని సందర్భంలో ఊహించడం ఏ నైపుణ్యం?",
+    "options": [
+      "అర్థగ్రహణం",
+      "కేవలం లిపి",
+      "శారీరక విద్య",
+      "గణన"
+    ],
+    "answer": 0,
+    "explanation_en": "అర్థగ్రహణం is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: అర్థగ్రహణం. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0039",
+    "subject": "TEL",
+    "question_en": "Sentence sequencing develops?",
+    "question_te": "పదాలను సరైన క్రమంలో అమర్చి వాక్యం చేయడం దేనికి?",
+    "options": [
+      "వాక్య నిర్మాణం",
+      "కేవలం శ్రవణం",
+      "చిత్రలేఖనం",
+      "లెక్కలు"
+    ],
+    "answer": 0,
+    "explanation_en": "వాక్య నిర్మాణం is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: వాక్య నిర్మాణం. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0040",
+    "subject": "TEL",
+    "question_en": "Best way to promote original writing?",
+    "question_te": "విద్యార్థుల స్వీయరచనకు ఉత్తమ మార్గం?",
+    "options": [
+      "స్వంత అనుభవంపై చిన్న పేరా",
+      "కేవలం నకలు",
+      "తప్పులకు హేళన",
+      "ఏ పని ఇవ్వకపోవడం"
+    ],
+    "answer": 0,
+    "explanation_en": "స్వంత అనుభవంపై చిన్న పేరా is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: స్వంత అనుభవంపై చిన్న పేరా. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0041",
+    "subject": "TEL",
+    "question_en": "Pair talk supports?",
+    "question_te": "భాషా తరగతిలో జంట సంభాషణ వలన?",
+    "options": [
+      "మాట్లాడే నైపుణ్యం",
+      "మౌనం",
+      "శారీరక బలం",
+      "లెక్కలు"
+    ],
+    "answer": 0,
+    "explanation_en": "మాట్లాడే నైపుణ్యం is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: మాట్లాడే నైపుణ్యం. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0042",
+    "subject": "TEL",
+    "question_en": "Summarizing a story assesses?",
+    "question_te": "కథను చదివి ప్రధాన భావం చెప్పడం దేనిని కొలుస్తుంది?",
+    "options": [
+      "పఠన అవగాహన",
+      "కేవలం వేగం",
+      "లిపి పరిమాణం",
+      "గణితం"
+    ],
+    "answer": 0,
+    "explanation_en": "పఠన అవగాహన is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: పఠన అవగాహన. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0043",
+    "subject": "TEL",
+    "question_en": "Picture description improves?",
+    "question_te": "చిత్రం చూసి వర్ణన రాయించడం దేనిని పెంచుతుంది?",
+    "options": [
+      "రచనా నైపుణ్యం",
+      "శారీరక శక్తి",
+      "లెక్కల వేగం",
+      "కేవలం కంఠస్థం"
+    ],
+    "answer": 0,
+    "explanation_en": "రచనా నైపుణ్యం is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: రచనా నైపుణ్యం. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0044",
+    "subject": "TEL",
+    "question_en": "Listening without interruption demonstrates?",
+    "question_te": "ఒకరి మాటను మధ్యలో ఆపకుండా వినడం?",
+    "options": [
+      "క్రియాశీల శ్రవణం",
+      "విరోధం",
+      "కేవలం పఠనం",
+      "లెక్కలు"
+    ],
+    "answer": 0,
+    "explanation_en": "క్రియాశీల శ్రవణం is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: క్రియాశీల శ్రవణం. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0045",
+    "subject": "TEL",
+    "question_en": "Best response to language error?",
+    "question_te": "భాషా తప్పును సరిదిద్దడానికి ఉత్తమ మార్గం?",
+    "options": [
+      "సూచన ఇచ్చి తిరిగి ప్రయత్నించనివ్వడం",
+      "బహిరంగ అవమానం",
+      "పాఠం నిలిపివేయడం",
+      "శిక్ష"
+    ],
+    "answer": 0,
+    "explanation_en": "సూచన ఇచ్చి తిరిగి ప్రయత్నించనివ్వడం is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: సూచన ఇచ్చి తిరిగి ప్రయత్నించనివ్వడం. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0046",
+    "subject": "TEL",
+    "question_en": "Part of speech of అతడు?",
+    "question_te": "“అతడు” ఏ పదభేదం?",
+    "options": [
+      "సర్వనామం",
+      "నామవాచకం",
+      "క్రియ",
+      "క్రియావిశేషణం"
+    ],
+    "answer": 0,
+    "explanation_en": "సర్వనామం is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: సర్వనామం. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0047",
+    "subject": "TEL",
+    "question_en": "Part of speech of పాఠశాల?",
+    "question_te": "“పాఠశాల” ఏ పదభేదం?",
+    "options": [
+      "నామవాచకం",
+      "క్రియ",
+      "సర్వనామం",
+      "విశేషణం"
+    ],
+    "answer": 0,
+    "explanation_en": "నామవాచకం is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: నామవాచకం. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0048",
+    "subject": "TEL",
+    "question_en": "Part of speech of పరుగెత్తాడు?",
+    "question_te": "“పరుగెత్తాడు” ఏ పదభేదం?",
+    "options": [
+      "క్రియ",
+      "నామవాచకం",
+      "సర్వనామం",
+      "విశేషణం"
+    ],
+    "answer": 0,
+    "explanation_en": "క్రియ is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: క్రియ. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0049",
+    "subject": "TEL",
+    "question_en": "Identify the adjective in sweet mango.",
+    "question_te": "“తీపి మామిడి” లో విశేషణం?",
+    "options": [
+      "తీపి",
+      "మామిడి",
+      "రెండూ క్రియలు",
+      "లేదు"
+    ],
+    "answer": 0,
+    "explanation_en": "తీపి is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: తీపి. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "TEL-0050",
+    "subject": "TEL",
+    "question_en": "Part of speech of మనం?",
+    "question_te": "“మనం” ఏ పదభేదం?",
+    "options": [
+      "సర్వనామం",
+      "నామవాచకం",
+      "క్రియ",
+      "అవ్యయం"
+    ],
+    "answer": 0,
+    "explanation_en": "సర్వనామం is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: సర్వనామం. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "ENG-0001",
+    "subject": "ENG",
+    "question_en": "Choose the correct sentence.",
+    "question_te": "సరైన ఆంగ్ల వాక్యాన్ని ఎంచుకోండి.",
+    "options": [
+      "She go to school.",
+      "She goes to school.",
+      "She going school.",
+      "She gone to school."
+    ],
+    "answer": 1,
+    "explanation_en": "Third-person singular present takes “goes”.",
+    "explanation_te": "ఏకవచన తృతీయ పురుషానికి goes సరైన క్రియారూపం."
+  },
+  {
+    "id": "ENG-0002",
+    "subject": "ENG",
+    "question_en": "Select the synonym of “rapid”.",
+    "question_te": "“rapid” పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "slow",
+      "swift",
+      "weak",
+      "late"
+    ],
+    "answer": 1,
+    "explanation_en": "Rapid means fast or swift.",
+    "explanation_te": "rapid అంటే వేగమైన; swift సమానార్థకం."
+  },
+  {
+    "id": "ENG-0003",
+    "subject": "ENG",
+    "question_en": "Choose the antonym of “ancient”.",
+    "question_te": "“ancient” వ్యతిరేక పదం ఏది?",
+    "options": [
+      "old",
+      "historic",
+      "modern",
+      "former"
+    ],
+    "answer": 2,
+    "explanation_en": "Modern contrasts with ancient.",
+    "explanation_te": "ancient అంటే పురాతన; modern అంటే ఆధునిక."
+  },
+  {
+    "id": "ENG-0004",
+    "subject": "ENG",
+    "question_en": "Fill in: She is ___ honest teacher.",
+    "question_te": "ఖాళీ పూరించండి: She is ___ honest teacher.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 1,
+    "explanation_en": "Honest begins with a vowel sound because h is silent.",
+    "explanation_te": "honest లో h ఉచ్చరించరు; కాబట్టి an వస్తుంది."
+  },
+  {
+    "id": "ENG-0005",
+    "subject": "ENG",
+    "question_en": "Identify the adjective: “The bright star shines.”",
+    "question_te": "“The bright star shines.” లో విశేషణం ఏది?",
+    "options": [
+      "The",
+      "bright",
+      "star",
+      "shines"
+    ],
+    "answer": 1,
+    "explanation_en": "Bright describes the star.",
+    "explanation_te": "bright అనే పదం star గుణాన్ని తెలుపుతుంది."
+  },
+  {
+    "id": "ENG-0006",
+    "subject": "ENG",
+    "question_en": "Choose the correct passive: “They built a bridge.”",
+    "question_te": "కర్మణి వాక్యాన్ని ఎంచుకోండి.",
+    "options": [
+      "A bridge was built by them.",
+      "A bridge is build by them.",
+      "A bridge built them.",
+      "A bridge has build."
+    ],
+    "answer": 0,
+    "explanation_en": "Past simple passive uses was/were + past participle.",
+    "explanation_te": "భూతకాల కర్మణి రూపం was/were + past participle."
+  },
+  {
+    "id": "ENG-0007",
+    "subject": "ENG",
+    "question_en": "Choose the correct preposition: “He is good ___ maths.”",
+    "question_te": "సరైన preposition ఏది?",
+    "options": [
+      "on",
+      "at",
+      "for",
+      "by"
+    ],
+    "answer": 1,
+    "explanation_en": "The expression is “good at”.",
+    "explanation_te": "good at అనే పదబంధం సరైనది."
+  },
+  {
+    "id": "ENG-0008",
+    "subject": "ENG",
+    "question_en": "Choose the plural of “child”.",
+    "question_te": "child బహువచన రూపం ఏది?",
+    "options": [
+      "childs",
+      "childes",
+      "children",
+      "childrens"
+    ],
+    "answer": 2,
+    "explanation_en": "Children is the irregular plural.",
+    "explanation_te": "child అనే పదానికి irregular plural children."
+  },
+  {
+    "id": "ENG-0009",
+    "subject": "ENG",
+    "question_en": "Select the correct reported speech: He said, “I am tired.”",
+    "question_te": "పరోక్ష వాక్యాన్ని ఎంచుకోండి.",
+    "options": [
+      "He said that he was tired.",
+      "He said he is tiring.",
+      "He said that I am tired.",
+      "He says that he were tired."
+    ],
+    "answer": 0,
+    "explanation_en": "Reported past speech generally backshifts am to was.",
+    "explanation_te": "గతకాల reported speech లో am సాధారణంగా was అవుతుంది."
+  },
+  {
+    "id": "ENG-0010",
+    "subject": "ENG",
+    "question_en": "Which word is an adverb?",
+    "question_te": "క్రింది వాటిలో క్రియావిశేషణం ఏది?",
+    "options": [
+      "quick",
+      "quickly",
+      "quicker",
+      "quickness"
+    ],
+    "answer": 1,
+    "explanation_en": "Quickly modifies an action.",
+    "explanation_te": "quickly క్రియను విశేషిస్తుంది."
+  },
+  {
+    "id": "ENG-0011",
+    "subject": "ENG",
+    "question_en": "Which practice builds communicative competence?",
+    "question_te": "సంభాషణా నైపుణ్యాన్ని పెంచేది ఏది?",
+    "options": [
+      "Only grammar translation",
+      "Role-play in meaningful situations",
+      "Copying ten pages",
+      "Silent repetition only"
+    ],
+    "answer": 1,
+    "explanation_en": "Role-play enables purposeful language use.",
+    "explanation_te": "సందర్భోచిత పాత్రాభినయం భాషా వినియోగాన్ని పెంచుతుంది."
+  },
+  {
+    "id": "ENG-0012",
+    "subject": "ENG",
+    "question_en": "Which is a receptive language skill?",
+    "question_te": "గ్రహణాత్మక భాషా నైపుణ్యం ఏది?",
+    "options": [
+      "Writing",
+      "Speaking",
+      "Listening",
+      "Presenting"
+    ],
+    "answer": 2,
+    "explanation_en": "Listening and reading are receptive skills.",
+    "explanation_te": "వినడం, చదవడం గ్రహణాత్మక నైపుణ్యాలు."
+  },
+  {
+    "id": "ENG-0013",
+    "subject": "ENG",
+    "question_en": "What is phonemic awareness?",
+    "question_te": "ధ్వనిమ అవగాహన అంటే ఏమిటి?",
+    "options": [
+      "Recognising individual speech sounds",
+      "Writing essays",
+      "Knowing punctuation",
+      "Memorising rules"
+    ],
+    "answer": 0,
+    "explanation_en": "It involves noticing and manipulating sounds in spoken words.",
+    "explanation_te": "మాటలలోని ప్రత్యేక ధ్వనులను గుర్తించడం."
+  },
+  {
+    "id": "ENG-0014",
+    "subject": "ENG",
+    "question_en": "Best way to evaluate oral fluency?",
+    "question_te": "మౌఖిక ప్రవాహాన్ని అంచనా వేయడానికి ఏది ఉత్తమం?",
+    "options": [
+      "Dictation only",
+      "Short spoken conversation with a rubric",
+      "Written MCQ only",
+      "Spelling test only"
+    ],
+    "answer": 1,
+    "explanation_en": "Observation with explicit criteria tests oral performance.",
+    "explanation_te": "స్పష్టమైన ప్రమాణాలతో సంభాషణను అంచనా వేయాలి."
+  },
+  {
+    "id": "ENG-0015",
+    "subject": "ENG",
+    "question_en": "A reading lesson should prioritize which outcome?",
+    "question_te": "పఠన పాఠంలో ప్రధాన లక్ష్యం ఏది?",
+    "options": [
+      "Only pronunciation",
+      "Understanding meaning and making inferences",
+      "Only speed",
+      "Copying the passage"
+    ],
+    "answer": 1,
+    "explanation_en": "Comprehension involves meaning and inference.",
+    "explanation_te": "పఠనంలో అర్థగ్రహణం మరియు ఊహించడం కీలకం."
+  },
+  {
+    "id": "MATH-0001",
+    "subject": "MATH",
+    "question_en": "What is 3/4 + 1/8?",
+    "question_te": "3/4 + 1/8 విలువ ఎంత?",
+    "options": [
+      "5/8",
+      "7/8",
+      "1/2",
+      "1"
+    ],
+    "answer": 1,
+    "explanation_en": "Use denominator 8: 6/8 + 1/8 = 7/8.",
+    "explanation_te": "హారం 8 గా మార్చితే 6/8 + 1/8 = 7/8."
+  },
+  {
+    "id": "MATH-0002",
+    "subject": "MATH",
+    "question_en": "Solve 3x + 5 = 20.",
+    "question_te": "3x + 5 = 20 ను సాధించండి.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 2,
+    "explanation_en": "Subtract 5 and divide 3: x=5.",
+    "explanation_te": "5 తీసివేసి 3 తో భాగిస్తే x=5."
+  },
+  {
+    "id": "MATH-0003",
+    "subject": "MATH",
+    "question_en": "Find the area of a rectangle of length 12 cm and width 5 cm.",
+    "question_te": "పొడవు 12 సెం.మీ., వెడల్పు 5 సెం.మీ. దీర్ఘచతురస్ర వైశాల్యం ఎంత?",
+    "options": [
+      "17 cm²",
+      "34 cm²",
+      "60 cm²",
+      "120 cm²"
+    ],
+    "answer": 2,
+    "explanation_en": "Area = length × breadth = 60 cm².",
+    "explanation_te": "వైశాల్యం = పొడవు × వెడల్పు = 60."
+  },
+  {
+    "id": "MATH-0004",
+    "subject": "MATH",
+    "question_en": "What is 15% of 200?",
+    "question_te": "200 లో 15% ఎంత?",
+    "options": [
+      "15",
+      "25",
+      "30",
+      "40"
+    ],
+    "answer": 2,
+    "explanation_en": "0.15 × 200 = 30.",
+    "explanation_te": "15/100 × 200 = 30."
+  },
+  {
+    "id": "MATH-0005",
+    "subject": "MATH",
+    "question_en": "The ratio 12:18 in lowest terms is?",
+    "question_te": "12:18 నిష్పత్తిని సరళీకరించండి.",
+    "options": [
+      "3:2",
+      "2:3",
+      "6:9",
+      "4:5"
+    ],
+    "answer": 1,
+    "explanation_en": "Divide each term by 6.",
+    "explanation_te": "రెండు పదాలను 6 తో భాగిస్తే 2:3."
+  },
+  {
+    "id": "MATH-0006",
+    "subject": "MATH",
+    "question_en": "A triangle has angles 50° and 60°. Find the third.",
+    "question_te": "త్రిభుజ కోణాలు 50°, 60° అయితే మూడవ కోణం ఎంత?",
+    "options": [
+      "60°",
+      "70°",
+      "80°",
+      "90°"
+    ],
+    "answer": 1,
+    "explanation_en": "Interior angles sum to 180°, so 70°.",
+    "explanation_te": "త్రిభుజ కోణాల మొత్తం 180°; మూడవ కోణం 70°."
+  },
+  {
+    "id": "MATH-0007",
+    "subject": "MATH",
+    "question_en": "What is the mean of 4, 6, 8, 10?",
+    "question_te": "4, 6, 8, 10 సగటు ఎంత?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": 1,
+    "explanation_en": "Sum 28 divided by 4 = 7.",
+    "explanation_te": "మొత్తం 28; 4 తో భాగిస్తే 7."
+  },
+  {
+    "id": "MATH-0008",
+    "subject": "MATH",
+    "question_en": "What is √144?",
+    "question_te": "√144 విలువ ఎంత?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "14"
+    ],
+    "answer": 2,
+    "explanation_en": "12 × 12 = 144.",
+    "explanation_te": "12 × 12 = 144 కనుక మూలం 12."
+  },
+  {
+    "id": "MATH-0009",
+    "subject": "MATH",
+    "question_en": "Find the simple interest on ₹1000 at 5% for 2 years.",
+    "question_te": "₹1000 పై 5% రేటుతో 2 సంవత్సరాల సాధారణ వడ్డీ ఎంత?",
+    "options": [
+      "₹50",
+      "₹100",
+      "₹150",
+      "₹200"
+    ],
+    "answer": 1,
+    "explanation_en": "SI = PRT/100 = 1000×5×2/100 = 100.",
+    "explanation_te": "సాధారణ వడ్డీ = మూలధనం × రేటు × కాలం /100."
+  },
+  {
+    "id": "MATH-0010",
+    "subject": "MATH",
+    "question_en": "Which number is prime?",
+    "question_te": "క్రింది వాటిలో ప్రధాన సంఖ్య ఏది?",
+    "options": [
+      "21",
+      "27",
+      "29",
+      "33"
+    ],
+    "answer": 2,
+    "explanation_en": "29 has no divisors other than 1 and itself.",
+    "explanation_te": "29 కు 1 మరియు 29 తప్ప మరే భాగహారకాలు లేవు."
+  },
+  {
+    "id": "MATH-0011",
+    "subject": "MATH",
+    "question_en": "What is the probability of getting heads on a fair coin?",
+    "question_te": "సమాన అవకాశాలు గల నాణెంలో బొమ్మ పడే సంభావ్యత ఎంత?",
+    "options": [
+      "0",
+      "1/4",
+      "1/2",
+      "1"
+    ],
+    "answer": 2,
+    "explanation_en": "There is one favorable outcome among two equally likely outcomes.",
+    "explanation_te": "రెండు సమాన అవకాశాల్లో ఒకటి అనుకూలం; సంభావ్యత 1/2."
+  },
+  {
+    "id": "MATH-0012",
+    "subject": "MATH",
+    "question_en": "If a circle has radius 7 cm, its circumference using π=22/7 is?",
+    "question_te": "వ్యాసార్థం 7 సెం.మీ. అయితే పరిధి ఎంత?",
+    "options": [
+      "22 cm",
+      "44 cm",
+      "49 cm",
+      "154 cm"
+    ],
+    "answer": 1,
+    "explanation_en": "2πr = 2×22/7×7 =44.",
+    "explanation_te": "వృత్త పరిధి 2πr = 44 సెం.మీ."
+  },
+  {
+    "id": "MATH-0013",
+    "subject": "MATH",
+    "question_en": "Which example demonstrates mathematical estimation?",
+    "question_te": "గణితంలో అంచనా వేయడాన్ని చూపే ఉదాహరణ ఏది?",
+    "options": [
+      "Exact memorization only",
+      "Predicting a grocery total before calculating",
+      "Copying the table",
+      "Listening silently"
+    ],
+    "answer": 1,
+    "explanation_en": "Estimation builds number sense and reasonableness checking.",
+    "explanation_te": "లెక్కకు ముందే మొత్తం అంచనా వేయడం సంఖ్యాబోధను పెంచుతుంది."
+  },
+  {
+    "id": "MATH-0014",
+    "subject": "MATH",
+    "question_en": "A learner says 1/8 > 1/4 because 8 > 4. What should the teacher use?",
+    "question_te": "1/8 > 1/4 అని విద్యార్థి అనుకుంటే ఏది ఉపయోగకరం?",
+    "options": [
+      "Only tell the rule",
+      "Fraction strips to compare sizes",
+      "Give penalty",
+      "Skip fractions"
+    ],
+    "answer": 1,
+    "explanation_en": "Concrete fraction models reveal equal-whole part sizes.",
+    "explanation_te": "భిన్న పట్టీలు భాగాల పరిమాణాలను స్పష్టంగా చూపుతాయి."
+  },
+  {
+    "id": "MATH-0015",
+    "subject": "MATH",
+    "question_en": "Which assessment best reveals algebraic reasoning?",
+    "question_te": "బీజగణిత తార్కికతను ఏది బాగా తెలియజేస్తుంది?",
+    "options": [
+      "Only final answer",
+      "Ask for steps and explanation",
+      "Time handwriting",
+      "Count pages"
+    ],
+    "answer": 1,
+    "explanation_en": "Reasoning is visible in steps and explanations.",
+    "explanation_te": "దశలు మరియు వివరణ ద్వారా తార్కికత తెలుస్తుంది."
+  },
+  {
+    "id": "PHY-0001",
+    "subject": "PHY",
+    "question_en": "Which is the SI unit of force?",
+    "question_te": "బలం యొక్క SI ప్రమాణం ఏది?",
+    "options": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "answer": 1,
+    "explanation_en": "Force is measured in newtons.",
+    "explanation_te": "బలాన్ని న్యూటన్‌లలో కొలుస్తారు."
+  },
+  {
+    "id": "PHY-0002",
+    "subject": "PHY",
+    "question_en": "Which material is a good conductor of electricity?",
+    "question_te": "విద్యుత్ మంచి వాహకం ఏది?",
+    "options": [
+      "Rubber",
+      "Plastic",
+      "Copper",
+      "Dry wood"
+    ],
+    "answer": 2,
+    "explanation_en": "Copper has mobile electrons and low resistance.",
+    "explanation_te": "రాగిలో స్వేచ్ఛా ఎలక్ట్రాన్లు ఉండటం వల్ల మంచి వాహకం."
+  },
+  {
+    "id": "PHY-0003",
+    "subject": "PHY",
+    "question_en": "The speed of an object is distance divided by what?",
+    "question_te": "వేగం = దూరం / దేనితో భాగించాలి?",
+    "options": [
+      "Mass",
+      "Time",
+      "Force",
+      "Area"
+    ],
+    "answer": 1,
+    "explanation_en": "Speed = distance/time.",
+    "explanation_te": "వేగం = దూరం / సమయం."
+  },
+  {
+    "id": "PHY-0004",
+    "subject": "PHY",
+    "question_en": "Which change is chemical?",
+    "question_te": "రసాయన మార్పు ఏది?",
+    "options": [
+      "Ice melting",
+      "Water boiling",
+      "Iron rusting",
+      "Paper folding"
+    ],
+    "answer": 2,
+    "explanation_en": "Rusting produces new iron oxide compounds.",
+    "explanation_te": "ఇనుము తుప్పు పట్టడంలో కొత్త పదార్థం ఏర్పడుతుంది."
+  },
+  {
+    "id": "PHY-0005",
+    "subject": "PHY",
+    "question_en": "A solution with pH 3 is generally?",
+    "question_te": "pH 3 గల ద్రావణం సాధారణంగా ఎలా ఉంటుంది?",
+    "options": [
+      "Neutral",
+      "Basic",
+      "Acidic",
+      "Always salty"
+    ],
+    "answer": 2,
+    "explanation_en": "Values below pH 7 are acidic.",
+    "explanation_te": "pH 7 కంటే తక్కువైతే ఆమ్ల స్వభావం."
+  },
+  {
+    "id": "PHY-0006",
+    "subject": "PHY",
+    "question_en": "Which lens generally converges parallel light?",
+    "question_te": "సమాంతర కాంతి కిరణాలను కేంద్రీకరించే కటకం ఏది?",
+    "options": [
+      "Concave",
+      "Convex",
+      "Plane glass",
+      "Opaque sheet"
+    ],
+    "answer": 1,
+    "explanation_en": "A convex lens converges light in air.",
+    "explanation_te": "కుంభాకార కటకం కాంతిని కేంద్రీకరిస్తుంది."
+  },
+  {
+    "id": "PHY-0007",
+    "subject": "PHY",
+    "question_en": "Sound cannot travel through?",
+    "question_te": "శబ్దం దేనిలో ప్రయాణించదు?",
+    "options": [
+      "Air",
+      "Water",
+      "Steel",
+      "Vacuum"
+    ],
+    "answer": 3,
+    "explanation_en": "Sound needs a material medium.",
+    "explanation_te": "శబ్దానికి పదార్థ మాధ్యమం అవసరం."
+  },
+  {
+    "id": "PHY-0008",
+    "subject": "PHY",
+    "question_en": "What happens to resistance if wire length doubles (same material and area)?",
+    "question_te": "అదే పదార్థం, మందం ఉన్న తీగ పొడవు రెట్టింపు అయితే నిరోధం?",
+    "options": [
+      "Halves",
+      "Doubles",
+      "Unchanged",
+      "Becomes zero"
+    ],
+    "answer": 1,
+    "explanation_en": "R = ρL/A, so resistance scales with length.",
+    "explanation_te": "R=ρL/A ప్రకారం పొడవుతో నిరోధం పెరుగుతుంది."
+  },
+  {
+    "id": "PHY-0009",
+    "subject": "PHY",
+    "question_en": "Which gas is released when dilute acid reacts with zinc?",
+    "question_te": "జింక్‌తో పలుచని ఆమ్లం చర్యలో విడుదలయ్యే వాయువు ఏది?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Chlorine"
+    ],
+    "answer": 1,
+    "explanation_en": "Metal + dilute acid generally produces hydrogen.",
+    "explanation_te": "లోహం + పలుచని ఆమ్లం చర్యలో హైడ్రోజన్ వస్తుంది."
+  },
+  {
+    "id": "PHY-0010",
+    "subject": "PHY",
+    "question_en": "Which law relates equal and opposite reaction forces?",
+    "question_te": "సమాన వ్యతిరేక ప్రతిచర్య బలాలను ఏ నియమం వివరిస్తుంది?",
+    "options": [
+      "Newton first",
+      "Newton second",
+      "Newton third",
+      "Ohm law"
+    ],
+    "answer": 2,
+    "explanation_en": "Newton’s third law pairs action and reaction.",
+    "explanation_te": "న్యూటన్ మూడవ నియమం చర్య–ప్రతిచర్యను వివరిస్తుంది."
+  },
+  {
+    "id": "PHY-0011",
+    "subject": "PHY",
+    "question_en": "What is the unit of electric current?",
+    "question_te": "విద్యుత్ ప్రవాహ ప్రమాణం ఏది?",
+    "options": [
+      "Volt",
+      "Ohm",
+      "Ampere",
+      "Coulomb"
+    ],
+    "answer": 2,
+    "explanation_en": "Electric current is measured in amperes.",
+    "explanation_te": "విద్యుత్ ప్రవాహాన్ని ఆంపియర్లలో కొలుస్తారు."
+  },
+  {
+    "id": "PHY-0012",
+    "subject": "PHY",
+    "question_en": "What is the main energy source driving the water cycle?",
+    "question_te": "జలచక్రానికి ముఖ్య శక్తి మూలం ఏది?",
+    "options": [
+      "Moon",
+      "Sun",
+      "Wind alone",
+      "Earth core"
+    ],
+    "answer": 1,
+    "explanation_en": "Solar heating drives evaporation.",
+    "explanation_te": "సౌర తాపం ఆవిరీభవనానికి శక్తి ఇస్తుంది."
+  },
+  {
+    "id": "PHY-0013",
+    "subject": "PHY",
+    "question_en": "Best teaching strategy to introduce density?",
+    "question_te": "సాంద్రతను పరిచయం చేయడానికి ఉత్తమ బోధన ఏది?",
+    "options": [
+      "Only dictate definition",
+      "Compare masses of equal-volume materials",
+      "Skip measurement",
+      "Memorize formula alone"
+    ],
+    "answer": 1,
+    "explanation_en": "Hands-on equal-volume comparison builds the mass/volume relationship.",
+    "explanation_te": "సమాన ఘనపరిమాణాల ద్రవ్యరాశులను పోల్చితే సాంద్రత అర్థమవుతుంది."
+  },
+  {
+    "id": "PHY-0014",
+    "subject": "PHY",
+    "question_en": "Which practice helps students test a scientific hypothesis?",
+    "question_te": "వైజ్ఞానిక ఊహను పరీక్షించేందుకు ఏమి అవసరం?",
+    "options": [
+      "Change many variables at once",
+      "Control variables and collect evidence",
+      "Assume the result",
+      "Avoid recording"
+    ],
+    "answer": 1,
+    "explanation_en": "Controlled investigation isolates the tested factor.",
+    "explanation_te": "నియంత్రిత పరిశోధనలో ఒక అంశం ప్రభావాన్ని గుర్తించవచ్చు."
+  },
+  {
+    "id": "PHY-0015",
+    "subject": "PHY",
+    "question_en": "What should a teacher do when an experiment contradicts a prediction?",
+    "question_te": "ప్రయోగ ఫలితం ఊహకు విరుద్ధమైతే ఉపాధ్యాయుడు ఏం చేయాలి?",
+    "options": [
+      "Hide the result",
+      "Examine evidence and revise the explanation",
+      "Punish students",
+      "Alter records"
+    ],
+    "answer": 1,
+    "explanation_en": "Science updates explanations in response to evidence.",
+    "explanation_te": "ఆధారాలపై వివరణలను సవరించడం శాస్త్రీయ పద్ధతి."
+  },
+  {
+    "id": "BIO-0001",
+    "subject": "BIO",
+    "question_en": "Which cell organelle carries out photosynthesis?",
+    "question_te": "కిరణజన్య సంయోగక్రియ జరిగే కణాంగం ఏది?",
+    "options": [
+      "Mitochondrion",
+      "Chloroplast",
+      "Nucleus",
+      "Ribosome"
+    ],
+    "answer": 1,
+    "explanation_en": "Chloroplasts contain chlorophyll for photosynthesis.",
+    "explanation_te": "హరితలవకాలలో క్లోరోఫిల్ ఉండి కిరణజన్య సంయోగక్రియ జరుగుతుంది."
+  },
+  {
+    "id": "BIO-0002",
+    "subject": "BIO",
+    "question_en": "Which blood cells mainly transport oxygen?",
+    "question_te": "ఆక్సిజన్ రవాణా ప్రధానంగా ఏ రక్తకణాలు చేస్తాయి?",
+    "options": [
+      "Platelets",
+      "Red blood cells",
+      "White blood cells",
+      "Plasma proteins only"
+    ],
+    "answer": 1,
+    "explanation_en": "Haemoglobin in RBCs binds oxygen.",
+    "explanation_te": "ఎర్రరక్త కణాల్లో హీమోగ్లోబిన్ ఆక్సిజన్‌ను మోస్తుంది."
+  },
+  {
+    "id": "BIO-0003",
+    "subject": "BIO",
+    "question_en": "What is the basic unit of heredity?",
+    "question_te": "అనువంశికత యొక్క ప్రాథమిక ప్రమాణం ఏది?",
+    "options": [
+      "Tissue",
+      "Gene",
+      "Organ",
+      "Population"
+    ],
+    "answer": 1,
+    "explanation_en": "Genes are segments of hereditary information.",
+    "explanation_te": "జీన్లు అనువంశిక సమాచారాన్ని కలిగి ఉంటాయి."
+  },
+  {
+    "id": "BIO-0004",
+    "subject": "BIO",
+    "question_en": "Which organ filters blood and forms urine?",
+    "question_te": "రక్తాన్ని వడపోసి మూత్రం ఏర్పరచేది ఏ అవయవం?",
+    "options": [
+      "Lung",
+      "Kidney",
+      "Liver",
+      "Stomach"
+    ],
+    "answer": 1,
+    "explanation_en": "Kidneys remove wastes and regulate fluid balance.",
+    "explanation_te": "మూత్రపిండాలు వ్యర్థాలను తొలగించి ద్రవ సమతుల్యతను కాపాడతాయి."
+  },
+  {
+    "id": "BIO-0005",
+    "subject": "BIO",
+    "question_en": "Which process converts sugar into energy with oxygen?",
+    "question_te": "ఆక్సిజన్‌తో చక్కెర నుండి శక్తి విడుదల చేసే ప్రక్రియ ఏది?",
+    "options": [
+      "Photosynthesis",
+      "Aerobic respiration",
+      "Transpiration",
+      "Pollination"
+    ],
+    "answer": 1,
+    "explanation_en": "Aerobic respiration releases usable energy from glucose.",
+    "explanation_te": "వాయు శ్వాసక్రియలో గ్లూకోజ్ నుండి శక్తి విడుదల అవుతుంది."
+  },
+  {
+    "id": "BIO-0006",
+    "subject": "BIO",
+    "question_en": "Which organisms are primary producers in most food chains?",
+    "question_te": "అధిక ఆహార శృంఖలల్లో ఉత్పత్తిదారులు ఎవరు?",
+    "options": [
+      "Green plants",
+      "Carnivores",
+      "Decomposers only",
+      "Parasites"
+    ],
+    "answer": 0,
+    "explanation_en": "Green plants make organic matter using sunlight.",
+    "explanation_te": "ఆకుపచ్చ మొక్కలు సూర్యకాంతితో ఆహారం తయారు చేస్తాయి."
+  },
+  {
+    "id": "BIO-0007",
+    "subject": "BIO",
+    "question_en": "Which tissue carries water from roots upward in plants?",
+    "question_te": "వేర్ల నుండి నీటిని పైకి తీసుకెళ్లే కణజాలం ఏది?",
+    "options": [
+      "Phloem",
+      "Xylem",
+      "Epidermis",
+      "Cambium"
+    ],
+    "answer": 1,
+    "explanation_en": "Xylem transports water and mineral nutrients.",
+    "explanation_te": "జైలమ్ నీరు మరియు ఖనిజాలను రవాణా చేస్తుంది."
+  },
+  {
+    "id": "BIO-0008",
+    "subject": "BIO",
+    "question_en": "The transfer of pollen to a stigma is called?",
+    "question_te": "పుప్పొడి కీలాగ్రానికి చేరడాన్ని ఏమంటారు?",
+    "options": [
+      "Germination",
+      "Pollination",
+      "Respiration",
+      "Digestion"
+    ],
+    "answer": 1,
+    "explanation_en": "Pollination is transfer of pollen to a receptive stigma.",
+    "explanation_te": "పుప్పొడి కీలాగ్రానికి చేరడం పరాగసంపర్కం."
+  },
+  {
+    "id": "BIO-0009",
+    "subject": "BIO",
+    "question_en": "Which nutrient primarily builds and repairs body tissues?",
+    "question_te": "శరీర కణజాల నిర్మాణం, మరమ్మతులకు ముఖ్య పోషకం ఏది?",
+    "options": [
+      "Protein",
+      "Water alone",
+      "Fibre alone",
+      "Salt"
+    ],
+    "answer": 0,
+    "explanation_en": "Proteins provide amino acids for tissue growth and repair.",
+    "explanation_te": "ప్రోటీన్లు కణజాల నిర్మాణానికి అవసరమైన అమినో ఆమ్లాలను అందిస్తాయి."
+  },
+  {
+    "id": "BIO-0010",
+    "subject": "BIO",
+    "question_en": "Which microorganism causes tuberculosis?",
+    "question_te": "క్షయ వ్యాధికి కారక సూక్ష్మజీవి ఏది?",
+    "options": [
+      "Virus",
+      "Bacterium",
+      "Protozoan",
+      "Alga"
+    ],
+    "answer": 1,
+    "explanation_en": "Tuberculosis is caused by Mycobacterium tuberculosis, a bacterium.",
+    "explanation_te": "క్షయ వ్యాధిని మైకోబాక్టీరియం ట్యూబర్‌క్యులోసిస్ అనే బాక్టీరియా కలిగిస్తుంది."
+  },
+  {
+    "id": "BIO-0011",
+    "subject": "BIO",
+    "question_en": "What is the functional unit of the nervous system?",
+    "question_te": "నాడీ వ్యవస్థ క్రియాత్మక ప్రమాణం ఏది?",
+    "options": [
+      "Neuron",
+      "Nephron",
+      "Alveolus",
+      "Villus"
+    ],
+    "answer": 0,
+    "explanation_en": "Neurons transmit electrical and chemical signals.",
+    "explanation_te": "న్యూరాన్లు నాడీ సంకేతాలను ప్రసారం చేస్తాయి."
+  },
+  {
+    "id": "BIO-0012",
+    "subject": "BIO",
+    "question_en": "Which human body system is responsible for gas exchange?",
+    "question_te": "వాయు మార్పిడికి బాధ్యత వహించే వ్యవస్థ ఏది?",
+    "options": [
+      "Digestive",
+      "Respiratory",
+      "Skeletal",
+      "Endocrine"
+    ],
+    "answer": 1,
+    "explanation_en": "The respiratory system exchanges oxygen and carbon dioxide.",
+    "explanation_te": "శ్వాస వ్యవస్థ ఆక్సిజన్ మరియు కార్బన్ డయాక్సైడ్ మార్పిడి చేస్తుంది."
+  },
+  {
+    "id": "BIO-0013",
+    "subject": "BIO",
+    "question_en": "Which activity best teaches ecological relationships?",
+    "question_te": "పర్యావరణ సంబంధాలను నేర్పడానికి ఏ చర్య ఉత్తమం?",
+    "options": [
+      "Memorize species lists only",
+      "Construct a local food web",
+      "Copy a chapter",
+      "Skip field observations"
+    ],
+    "answer": 1,
+    "explanation_en": "Food webs reveal interdependence among organisms.",
+    "explanation_te": "ఆహార జాలం జీవుల పరస్పర ఆధారపడటాన్ని చూపిస్తుంది."
+  },
+  {
+    "id": "BIO-0014",
+    "subject": "BIO",
+    "question_en": "How can a teacher correct the idea that plants obtain all food from soil?",
+    "question_te": "మొక్కలు మొత్తం ఆహారం నేల నుంచే పొందుతాయనే అపోహను ఎలా సరిచేయాలి?",
+    "options": [
+      "Repeat the wrong statement",
+      "Investigate photosynthesis and discuss evidence",
+      "Avoid the topic",
+      "Give only marks"
+    ],
+    "answer": 1,
+    "explanation_en": "Evidence about light, carbon dioxide and sugar formation addresses the misconception.",
+    "explanation_te": "కాంతి, CO₂, చక్కెర ఏర్పడటంపై ఆధారాలతో అపోహను సరిచేయాలి."
+  },
+  {
+    "id": "BIO-0015",
+    "subject": "BIO",
+    "question_en": "Which best assesses scientific observation skills?",
+    "question_te": "శాస్త్రీయ పరిశీలన నైపుణ్యాన్ని ఎలా అంచనా వేయాలి?",
+    "options": [
+      "Only recall test",
+      "Record and compare observed leaf features",
+      "Copy textbook pictures",
+      "Ask attendance"
+    ],
+    "answer": 1,
+    "explanation_en": "Recording real observations directly measures observation skills.",
+    "explanation_te": "ఆకుల లక్షణాలను పరిశీలించి నమోదు చేయడం ప్రత్యక్ష నైపుణ్య పరీక్ష."
+  },
+  {
+    "id": "BIO-0016",
+    "subject": "BIO",
+    "question_en": "జీవం యొక్క ప్రాథమిక ప్రమాణం?",
+    "question_te": "What is the basic unit of life?",
+    "options": [
+      "Cell",
+      "Tissue",
+      "Organ",
+      "System"
+    ],
+    "answer": 0,
+    "explanation_en": "Cell is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Cell. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0017",
+    "subject": "BIO",
+    "question_en": "సూకేంద్రక కణాల్లో జన్యు పదార్థం ప్రధానంగా ఎక్కడ?",
+    "question_te": "Which organelle contains most genetic material in eukaryotic cells?",
+    "options": [
+      "Nucleus",
+      "Ribosome",
+      "Golgi body",
+      "Cell wall"
+    ],
+    "answer": 0,
+    "explanation_en": "Nucleus is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Nucleus. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0018",
+    "subject": "BIO",
+    "question_en": "ప్రోటీన్ సంశ్లేషణ జరిగే కణాంగం?",
+    "question_te": "Which organelle synthesizes proteins?",
+    "options": [
+      "Ribosome",
+      "Lysosome",
+      "Vacuole",
+      "Cell wall"
+    ],
+    "answer": 0,
+    "explanation_en": "Ribosome is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Ribosome. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0019",
+    "subject": "BIO",
+    "question_en": "ఎంపికాత్మక పారగమ్య కణ సరిహద్దు?",
+    "question_te": "Which is the selectively permeable cell boundary?",
+    "options": [
+      "Plasma membrane",
+      "Cell wall only",
+      "Nucleus",
+      "Cytoplasm"
+    ],
+    "answer": 0,
+    "explanation_en": "Plasma membrane is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Plasma membrane. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0020",
+    "subject": "BIO",
+    "question_en": "వృక్ష కణకవచం ప్రధానంగా దేనితో నిర్మితం?",
+    "question_te": "Plant cell walls are mainly composed of?",
+    "options": [
+      "Cellulose",
+      "Chitin",
+      "Keratin",
+      "Glycogen"
+    ],
+    "answer": 0,
+    "explanation_en": "Cellulose is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Cellulose. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0021",
+    "subject": "BIO",
+    "question_en": "కిరణజన్య సంయోగక్రియలో మొక్కలు తీసుకునే వాయువు?",
+    "question_te": "Which gas is taken in during photosynthesis?",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen only",
+      "Hydrogen"
+    ],
+    "answer": 0,
+    "explanation_en": "Carbon dioxide is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Carbon dioxide. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0022",
+    "subject": "BIO",
+    "question_en": "కిరణజన్య సంయోగక్రియలో విడుదలయ్యే వాయువు?",
+    "question_te": "Which gas is released during oxygenic photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Methane",
+      "Nitrogen"
+    ],
+    "answer": 0,
+    "explanation_en": "Oxygen is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Oxygen. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0023",
+    "subject": "BIO",
+    "question_en": "ఆకుపచ్చ మొక్కల్లో కాంతిని గ్రహించే వర్ణద్రవ్యం?",
+    "question_te": "What pigment mainly absorbs light in green plants?",
+    "options": [
+      "Chlorophyll",
+      "Hemoglobin",
+      "Melanin",
+      "Keratin"
+    ],
+    "answer": 0,
+    "explanation_en": "Chlorophyll is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Chlorophyll. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0024",
+    "subject": "BIO",
+    "question_en": "మొక్కల్లో ఆహారం రవాణా చేసే కణజాలం?",
+    "question_te": "Which tissue transports food in plants?",
+    "options": [
+      "Phloem",
+      "Xylem",
+      "Epidermis",
+      "Collenchyma"
+    ],
+    "answer": 0,
+    "explanation_en": "Phloem is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Phloem. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0025",
+    "subject": "BIO",
+    "question_en": "మొక్కల పైభాగం నుంచి నీటి ఆవిరి పోవడం?",
+    "question_te": "Loss of water vapour from aerial plant parts is called?",
+    "options": [
+      "Transpiration",
+      "Respiration",
+      "Germination",
+      "Digestion"
+    ],
+    "answer": 0,
+    "explanation_en": "Transpiration is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Transpiration. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0026",
+    "subject": "BIO",
+    "question_en": "ఆకుల్లో వాయు మార్పిడి ప్రధానంగా ఎక్కడ?",
+    "question_te": "Where does most gas exchange occur in leaves?",
+    "options": [
+      "Stomata",
+      "Root cap",
+      "Xylem only",
+      "Seed coat"
+    ],
+    "answer": 0,
+    "explanation_en": "Stomata is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Stomata. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0027",
+    "subject": "BIO",
+    "question_en": "నేల నీటిని ప్రధానంగా ఏ భాగం గ్రహిస్తుంది?",
+    "question_te": "Which part absorbs most soil water?",
+    "options": [
+      "Root hairs",
+      "Flower",
+      "Fruit",
+      "Stem bark"
+    ],
+    "answer": 0,
+    "explanation_en": "Root hairs is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Root hairs. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0028",
+    "subject": "BIO",
+    "question_en": "పుష్పంలోని పురుష ప్రత్యుత్పత్తి భాగం?",
+    "question_te": "What is the male reproductive part of a flower?",
+    "options": [
+      "Stamen",
+      "Pistil",
+      "Ovary",
+      "Stigma"
+    ],
+    "answer": 0,
+    "explanation_en": "Stamen is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Stamen. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0029",
+    "subject": "BIO",
+    "question_en": "పుష్పంలో ఏ భాగం ఫలంగా మారుతుంది?",
+    "question_te": "Which part of a flower develops into a fruit?",
+    "options": [
+      "Ovary",
+      "Anther",
+      "Stigma",
+      "Sepal"
+    ],
+    "answer": 0,
+    "explanation_en": "Ovary is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Ovary. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0030",
+    "subject": "BIO",
+    "question_en": "ఫలదీకరణం తరువాత విత్తనంగా మారేది?",
+    "question_te": "Which part develops into a seed after fertilization?",
+    "options": [
+      "Ovule",
+      "Petal",
+      "Anther",
+      "Style"
+    ],
+    "answer": 0,
+    "explanation_en": "Ovule is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Ovule. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0031",
+    "subject": "BIO",
+    "question_en": "మూత్రపిండ క్రియాత్మక ప్రమాణం?",
+    "question_te": "What is the functional unit of kidney?",
+    "options": [
+      "Nephron",
+      "Neuron",
+      "Alveolus",
+      "Villus"
+    ],
+    "answer": 0,
+    "explanation_en": "Nephron is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Nephron. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0032",
+    "subject": "BIO",
+    "question_en": "ఊపిరితిత్తుల్లో వాయు మార్పిడి ఎక్కడ?",
+    "question_te": "Where does gas exchange occur in human lungs?",
+    "options": [
+      "Alveoli",
+      "Bronchus",
+      "Trachea",
+      "Diaphragm"
+    ],
+    "answer": 0,
+    "explanation_en": "Alveoli is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Alveoli. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0033",
+    "subject": "BIO",
+    "question_en": "రక్తం గడ్డకట్టడంలో సహాయపడేది?",
+    "question_te": "Which blood component helps clotting?",
+    "options": [
+      "Platelets",
+      "RBC",
+      "Plasma water",
+      "Neurons"
+    ],
+    "answer": 0,
+    "explanation_en": "Platelets is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Platelets. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0034",
+    "subject": "BIO",
+    "question_en": "సంక్రమణకు వ్యతిరేకంగా పోరాడే కణాలు?",
+    "question_te": "Which blood cells help fight infection?",
+    "options": [
+      "White blood cells",
+      "Red blood cells",
+      "Platelets",
+      "Epidermal cells"
+    ],
+    "answer": 0,
+    "explanation_en": "White blood cells is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: White blood cells. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0035",
+    "subject": "BIO",
+    "question_en": "శరీరానికి ఆక్సిజన్ రక్తాన్ని పంపే గుండె గది?",
+    "question_te": "Which heart chamber pumps oxygenated blood to the body?",
+    "options": [
+      "Left ventricle",
+      "Right atrium",
+      "Right ventricle",
+      "Left atrium"
+    ],
+    "answer": 0,
+    "explanation_en": "Left ventricle is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Left ventricle. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0036",
+    "subject": "BIO",
+    "question_en": "పిండి పదార్థ జీర్ణక్రియ ఎక్కడ మొదలవుతుంది?",
+    "question_te": "Where does starch digestion start?",
+    "options": [
+      "Mouth",
+      "Stomach",
+      "Large intestine",
+      "Liver"
+    ],
+    "answer": 0,
+    "explanation_en": "Mouth is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Mouth. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0037",
+    "subject": "BIO",
+    "question_en": "పిత్తరసాన్ని ఉత్పత్తి చేసే అవయవం?",
+    "question_te": "Which organ produces bile?",
+    "options": [
+      "Liver",
+      "Pancreas",
+      "Kidney",
+      "Stomach"
+    ],
+    "answer": 0,
+    "explanation_en": "Liver is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Liver. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0038",
+    "subject": "BIO",
+    "question_en": "పిత్తరసాన్ని నిల్వ చేసే అవయవం?",
+    "question_te": "Which organ stores bile?",
+    "options": [
+      "Gallbladder",
+      "Liver",
+      "Kidney",
+      "Spleen"
+    ],
+    "answer": 0,
+    "explanation_en": "Gallbladder is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Gallbladder. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0039",
+    "subject": "BIO",
+    "question_en": "స్కర్వీ ఏ విటమిన్ లోపంతో వస్తుంది?",
+    "question_te": "Which nutrient deficiency causes scurvy?",
+    "options": [
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin A",
+      "Vitamin K"
+    ],
+    "answer": 0,
+    "explanation_en": "Vitamin C is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Vitamin C. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0040",
+    "subject": "BIO",
+    "question_en": "పిల్లలలో రికెట్స్ ఏ విటమిన్ లోపంతో?",
+    "question_te": "Which vitamin deficiency causes rickets in children?",
+    "options": [
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin B12",
+      "Vitamin K"
+    ],
+    "answer": 0,
+    "explanation_en": "Vitamin D is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Vitamin D. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0041",
+    "subject": "BIO",
+    "question_en": "గాయిటర్‌కు కారణమయ్యే ఖనిజ లోపం?",
+    "question_te": "Which deficiency commonly causes iodine-deficiency goitre?",
+    "options": [
+      "Iodine",
+      "Iron",
+      "Zinc",
+      "Calcium"
+    ],
+    "answer": 0,
+    "explanation_en": "Iodine is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Iodine. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0042",
+    "subject": "BIO",
+    "question_en": "హీమోగ్లోబిన్ నిర్మాణానికి ముఖ్య ఖనిజం?",
+    "question_te": "Which mineral is crucial for hemoglobin?",
+    "options": [
+      "Iron",
+      "Sodium",
+      "Iodine",
+      "Fluoride"
+    ],
+    "answer": 0,
+    "explanation_en": "Iron is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Iron. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0043",
+    "subject": "BIO",
+    "question_en": "అనువంశికత యొక్క ప్రాథమిక ప్రమాణం?",
+    "question_te": "What is the basic unit of inheritance?",
+    "options": [
+      "Gene",
+      "Cell wall",
+      "Ribosome",
+      "Tissue"
+    ],
+    "answer": 0,
+    "explanation_en": "Gene is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Gene. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0044",
+    "subject": "BIO",
+    "question_en": "DNA విస్తృత రూపం?",
+    "question_te": "DNA stands for?",
+    "options": [
+      "Deoxyribonucleic acid",
+      "Ribonucleic acid",
+      "Amino acid",
+      "Fatty acid"
+    ],
+    "answer": 0,
+    "explanation_en": "Deoxyribonucleic acid is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Deoxyribonucleic acid. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0045",
+    "subject": "BIO",
+    "question_en": "క్రోమోజోమ్ సంఖ్య సగం చేసే విభజన?",
+    "question_te": "Which cell division reduces chromosome number by half?",
+    "options": [
+      "Meiosis",
+      "Mitosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "answer": 0,
+    "explanation_en": "Meiosis is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Meiosis. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0046",
+    "subject": "BIO",
+    "question_en": "ఈస్ట్‌లో అలైంగిక ప్రత్యుత్పత్తి సాధారణంగా?",
+    "question_te": "Asexual reproduction in yeast often occurs by?",
+    "options": [
+      "Budding",
+      "Pollination",
+      "Seed formation",
+      "Fertilization"
+    ],
+    "answer": 0,
+    "explanation_en": "Budding is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Budding. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0047",
+    "subject": "BIO",
+    "question_en": "మలేరియాకు కారక జీవి వర్గం?",
+    "question_te": "Malaria is caused by which group?",
+    "options": [
+      "Protozoan parasite",
+      "Bacterium",
+      "Virus",
+      "Fungus"
+    ],
+    "answer": 0,
+    "explanation_en": "Protozoan parasite is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Protozoan parasite. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0048",
+    "subject": "BIO",
+    "question_en": "క్షయ వ్యాధికి కారణం?",
+    "question_te": "Tuberculosis is caused by?",
+    "options": [
+      "Bacterium",
+      "Virus",
+      "Fungus",
+      "Alga"
+    ],
+    "answer": 0,
+    "explanation_en": "Bacterium is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Bacterium. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0049",
+    "subject": "BIO",
+    "question_en": "మృత సేంద్రియ పదార్థాన్ని విచ్ఛిన్నం చేసేవి?",
+    "question_te": "Which organisms break down dead organic material?",
+    "options": [
+      "Decomposers",
+      "Producers only",
+      "Top predators only",
+      "Herbivores only"
+    ],
+    "answer": 0,
+    "explanation_en": "Decomposers is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Decomposers. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0050",
+    "subject": "BIO",
+    "question_en": "ఆహార శృంఖల మొదటి పోషక స్థాయి?",
+    "question_te": "What is the first trophic level in a food chain?",
+    "options": [
+      "Producers",
+      "Primary consumers",
+      "Secondary consumers",
+      "Decomposers only"
+    ],
+    "answer": 0,
+    "explanation_en": "Producers is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Producers. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0051",
+    "subject": "BIO",
+    "question_en": "ఆహార శృంఖలల్లో ఎక్కువ స్థాయిలు అరుదుగా ఎందుకు?",
+    "question_te": "Why do food chains rarely have many trophic levels?",
+    "options": [
+      "Energy is lost at transfers",
+      "Energy increases each level",
+      "Mass always doubles",
+      "Sunlight is unlimited"
+    ],
+    "answer": 0,
+    "explanation_en": "Energy is lost at transfers is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Energy is lost at transfers. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0052",
+    "subject": "BIO",
+    "question_en": "కిరణజన్య సంయోగక్రియకు ఏ పరిశీలన ఆధారం?",
+    "question_te": "Which observation supports photosynthesis?",
+    "options": [
+      "Starch forms in illuminated leaves",
+      "Roots produce sunlight",
+      "Chlorophyll disappears always",
+      "Plants do not exchange gases"
+    ],
+    "answer": 0,
+    "explanation_en": "Starch forms in illuminated leaves is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Starch forms in illuminated leaves. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0053",
+    "subject": "BIO",
+    "question_en": "కాంతి అనువర్తనానికి సంబంధించిన వృక్ష హార్మోన్?",
+    "question_te": "Which plant hormone is linked to phototropism?",
+    "options": [
+      "Auxin",
+      "Insulin",
+      "Thyroxine",
+      "Adrenaline"
+    ],
+    "answer": 0,
+    "explanation_en": "Auxin is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Auxin. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0054",
+    "subject": "BIO",
+    "question_en": "మానవుల్లో వేగవంతమైన ప్రతిస్పందనలను నియంత్రించేది?",
+    "question_te": "Which system coordinates fast responses in humans?",
+    "options": [
+      "Nervous system",
+      "Skeletal system only",
+      "Digestive system",
+      "Excretory system"
+    ],
+    "answer": 0,
+    "explanation_en": "Nervous system is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Nervous system. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0055",
+    "subject": "BIO",
+    "question_en": "ఇన్సులిన్‌ను స్రవించే గ్రంథి?",
+    "question_te": "Which endocrine gland produces insulin?",
+    "options": [
+      "Pancreas",
+      "Thyroid",
+      "Pituitary only",
+      "Adrenal"
+    ],
+    "answer": 0,
+    "explanation_en": "Pancreas is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Pancreas. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0056",
+    "subject": "BIO",
+    "question_en": "వర్గీకరణ నైపుణ్యం పెంచే జీవశాస్త్ర కార్యాచరణ?",
+    "question_te": "Which scientific teaching activity develops classification skill?",
+    "options": [
+      "Group leaves by observed features",
+      "Copy answers",
+      "Memorise page numbers",
+      "Punish errors"
+    ],
+    "answer": 0,
+    "explanation_en": "Group leaves by observed features is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: Group leaves by observed features. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  },
+  {
+    "id": "BIO-0057",
+    "subject": "BIO",
+    "question_en": "నియంత్రిత ప్రయోగంలో ఉద్దేశపూర్వకంగా ఎన్ని చరరాశులు మార్చాలి?",
+    "question_te": "For a fair experiment, how many variables should be deliberately changed?",
+    "options": [
+      "One independent variable",
+      "Every variable",
+      "No observations",
+      "All outcomes"
+    ],
+    "answer": 0,
+    "explanation_en": "One independent variable is the correct answer for this syllabus concept.",
+    "explanation_te": "సరైన సమాధానం: One independent variable. ఈ భావనను పాఠ్యపుస్తకంలో పునశ్చరణ చేయండి."
+  }
+]
