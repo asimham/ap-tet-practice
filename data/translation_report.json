@@ -1,0 +1,24 @@
+{
+  "total_questions": 3000,
+  "subjects": {
+    "CDP": 500,
+    "TEL": 500,
+    "ENG": 500,
+    "MATH": 500,
+    "PHY": 500,
+    "BIO": 500
+  },
+  "question_telugu_available_by_subject": {
+    "CDP": 290,
+    "TEL": 500,
+    "ENG": 500,
+    "MATH": 500,
+    "PHY": 500,
+    "BIO": 458
+  },
+  "translation_status": {
+    "telugu_question": 2748,
+    "english_only": 252
+  },
+  "note": "Telugu question prompts updated for concept templates. English-language example strings deliberately remain English in Language II. Answer-choice translation is glossary-assisted and incomplete. Telugu explanations are retained only if genuinely Telugu; missing explanations are explicitly blank. All questions remain draft and not SCERT-verified. Past-paper imports: zero."
+}

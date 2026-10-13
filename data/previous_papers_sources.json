@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "description": "Index of externally hosted previous solved question papers. No copyrighted questions reproduced or assigned unverified provenance.",
+  "resources": [
+    {
+      "id": "aptet-official",
+      "name": "Official examination portal and bulletin",
+      "url": "https://tet2dsc.apcfss.in/",
+      "type": "official_portal"
+    },
+    {
+      "id": "aglasem-archive",
+      "name": "AP TET previous question paper listings (third party)",
+      "url": "https://docs.aglasem.com/org/sbtetap/aptet/question-paper",
+      "type": "external_paper_index"
+    },
+    {
+      "id": "testbook-papers",
+      "name": "AP TET previous papers and solved practice (third party; some may be paid)",
+      "url": "https://testbook.com/ap-tet/previous-year-papers",
+      "type": "external_solved_papers"
+    }
+  ],
+  "verified_imports": [],
+  "requirements_for_import": [
+    "confirm paper year, session, paper and language",
+    "verify official final answer key when available",
+    "record item license or permission before republication",
+    "provide bilingual editorial review and source reference"
+  ]
+}
