@@ -1,0 +1,21 @@
+[
+  {
+    "id": "BIO-NEW-0001",
+    "subject": "BIO",
+    "class": 7,
+    "chapter": "Chapter/topic verified from the actual textbook",
+    "question_en": "Replace with original question",
+    "question_te": "మీ స్వంత ప్రశ్నను ఇక్కడ రాయండి",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "explanation_en": "Explain and independently verify the correct answer.",
+    "explanation_te": "తెలుగులో వివరణ ఇవ్వండి.",
+    "source_url": "",
+    "review_status": "draft"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "records": 3000,
+  "subjects": {
+    "CDP": 500,
+    "TEL": 500,
+    "ENG": 500,
+    "MATH": 500,
+    "PHY": 500,
+    "BIO": 500
+  },
+  "reviewed": 0,
+  "draft": 3000,
+  "bilingual_complete": 3000,
+  "warning": "Existing records are not individually expert checked; topic labels are provisional"
+}
