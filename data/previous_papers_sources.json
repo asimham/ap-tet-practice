@@ -1,31 +1,29 @@
-{
-  "schema_version": 1,
-  "description": "Index of externally hosted previous solved question papers. No copyrighted questions reproduced or assigned unverified provenance.",
-  "resources": [
-    {
-      "id": "aptet-official",
-      "name": "Official examination portal and bulletin",
-      "url": "https://tet2dsc.apcfss.in/",
-      "type": "official_portal"
-    },
-    {
-      "id": "aglasem-archive",
-      "name": "AP TET previous question paper listings (third party)",
-      "url": "https://docs.aglasem.com/org/sbtetap/aptet/question-paper",
-      "type": "external_paper_index"
-    },
-    {
-      "id": "testbook-papers",
-      "name": "AP TET previous papers and solved practice (third party; some may be paid)",
-      "url": "https://testbook.com/ap-tet/previous-year-papers",
-      "type": "external_solved_papers"
-    }
-  ],
-  "verified_imports": [],
-  "requirements_for_import": [
-    "confirm paper year, session, paper and language",
-    "verify official final answer key when available",
-    "record item license or permission before republication",
-    "provide bilingual editorial review and source reference"
-  ]
-}
+[
+  {
+    "id": "2024-03-02-morning",
+    "session": "2024-03-02 morning",
+    "subject": "Mathematics & Science",
+    "paper_url": "https://www.apteachers.in/2022/08/aptet-response-sheets-download-ap-tet.html",
+    "paper_url_is_collection": true,
+    "official_final_key_url": "https://aptet.apcfss.in/Documents/QpsKeys/2024/FinalKey/TET_2024_2A_SHIFT_1_Maths_EM%26TM_FN_02.03.2024_FINAL_KEY.pdf",
+    "imported_as_quiz": false
+  },
+  {
+    "id": "2024-03-02-afternoon",
+    "session": "2024-03-02 afternoon",
+    "subject": "Mathematics & Science",
+    "paper_url": "https://www.apteachers.in/2022/08/aptet-response-sheets-download-ap-tet.html",
+    "paper_url_is_collection": true,
+    "official_final_key_url": "https://aptet.apcfss.in/Documents/QpsKeys/2024/FinalKey/TET_2024_2A_SHIFT_2_Maths_EM%26TM_AN_02.03.2024_FINAL_KEY%20%281%29.pdf",
+    "imported_as_quiz": false
+  },
+  {
+    "id": "2024-10-15-morning",
+    "session": "2024-10-15 morning",
+    "subject": "Mathematics & Science",
+    "paper_url": "https://www.apteachers.in/2024/10/aptet-july-2024-oct-2024-question.html",
+    "paper_url_is_collection": true,
+    "official_final_key_url": "https://aptet.apcfss.in/Documents/QpsKeys/2024/July/TET_JULY_2024_2A_Maths%26Science_EM%26TM_15.10.2024_Morning%20Session-1_FINAL_KEY.pdf",
+    "imported_as_quiz": false
+  }
+]
