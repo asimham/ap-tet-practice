@@ -1,0 +1,26 @@
+{
+  "total": 3000,
+  "telugu_total": 500,
+  "telugu_new": 80,
+  "telugu_retained": 420,
+  "new_topics": {
+    "Poets & Authors / కవులు–రచయితలు": 24,
+    "Literary Works / రచనలు": 21,
+    "Literary Forms / సాహిత్య ప్రక్రియలు": 6,
+    "Alankaras / అలంకారాలు": 3,
+    "Chandassu / ఛందస్సు": 3,
+    "Grammar / వ్యాకరణం": 5,
+    "Vocabulary / పదజాలం": 5,
+    "Telugu Pedagogy / భాషా బోధన": 10,
+    "Reading Comprehension / పఠనావగాహన": 3
+  },
+  "status": "Original new questions: editorial and chapter-level verification pending",
+  "existing_subjects": {
+    "CDP": 500,
+    "ENG": 500,
+    "MATH": 500,
+    "PHY": 500,
+    "BIO": 500,
+    "TEL": 500
+  }
+}
