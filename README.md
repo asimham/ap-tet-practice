@@ -1,16 +1,16 @@
-# Teacher Prep Hub — simplified GitHub Pages edition
+# Teacher Prep Hub – Telugu substantial rebuild
 
-Upload the **contents** of this ZIP to the root of your existing GitHub Pages repository, replacing `index.html`, `app.js`, `styles.css`, and `data/questions.json`.
+Deploy all files to the root of the GitHub Pages repository. Preserve the `data/` folder.
 
-## Changes
-- Preserves the existing practice / mock / mistakes engine and its 3,000 draft question records.
-- Removes the browser JSON-import control and the import warning.
-- Adds a clean Previous Papers section for three 2024 Mathematics & Science sessions, linking to paper directories and matching government **final answer keys**.
-- The historical PDFs are **external references**, not in-app imported MCQs or automatically scored papers. No questions or solution explanations have been extracted from them.
-- Clarifies 2025 bulletin: Paper 2A is labelled for Classes VI–VIII, but preparation follows state textbook concepts and standards linkage through Class X.
+## Content
+* 3,000 records remain in total, 500 Telugu.
+* Original Telugu literature / poet & work / forms / grammar / pedagogy / comprehension questions replace a large subset of synonym/antonym repetition.
+* Prior material in other subjects is unchanged and is still DRAFT.
+* All newly authored items are marked `draft`; source links indicate topic-level alignment, not verified textbook chapter citations.
+* `data/content_audit.json` shows exact counts.
 
-## Quality
-3,000 practice records are draft questions, not individually verified. Some Telugu translations remain incomplete; do not represent them as fully bilingual verified content.
+## Reference books
+Official Telugu FL/SL textbooks for Classes 6–10: https://cse.ap.gov.in/textBooksDownloadingPagetitleWise
+Official TET syllabus: https://tet2dsc.apcfss.in/TET-PDF/PressNote/TET%20%20OCTOBER%202025%20SYLLABUS%20BOOK%20FINAL.pdf
 
-## Privacy
-Answers and mistake history are saved only in browser localStorage. This is not synced across devices.
+The quiz keeps the current layout; no account or server required.
